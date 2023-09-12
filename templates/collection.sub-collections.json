@@ -1,0 +1,57 @@
+{
+  "sections": {
+    "main": {
+      "type": "collection-sub-collections-template",
+      "blocks": {
+        "7abe4f45-bf27-4be1-9a32-f102b39cd731": {
+          "type": "filter",
+          "settings": {
+            "filter_name": "SKIN CONCERNS",
+            "filter_tags": "eczema, dry, sensitive",
+            "enable_filter_swatches": false
+          }
+        },
+        "f5334d9b-323f-473b-a2ae-e9276670e978": {
+          "type": "filter",
+          "settings": {
+            "filter_name": "CATEGORY",
+            "filter_tags": "bath, diapering, moisturizers, gifts",
+            "enable_filter_swatches": false
+          }
+        },
+        "cfdf46ce-273f-4ecc-8918-9dc01b4cebdd": {
+          "type": "filter",
+          "settings": {
+            "filter_name": "HAIR CONCERNS",
+            "filter_tags": "tangles, curls + coils, frizz",
+            "enable_filter_swatches": false
+          }
+        }
+      },
+      "block_order": [
+        "7abe4f45-bf27-4be1-9a32-f102b39cd731",
+        "f5334d9b-323f-473b-a2ae-e9276670e978",
+        "cfdf46ce-273f-4ecc-8918-9dc01b4cebdd"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": true,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "collection_breadcrumb": true,
+        "display_collection_title": false,
+        "collection_tags": false,
+        "collection_sort": false,
+        "align_height": false,
+        "collection_height": 200,
+        "collections_per_row": 3,
+        "products_per_row": 3,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

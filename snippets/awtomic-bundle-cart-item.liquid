@@ -1,0 +1,100 @@
+{% assign bundle_price = 0 %}
+{% assign bundle_product = all_products[bundleHandle] %}
+{% assign bundle_product_image = '' %}
+{% if bundle_product.featured_media %}
+  {% if bundle_product.featured_media.media_type == 'video' %}
+    {% capture bundle_product_image %}{{ bundle_product.featured_media | image_url: width: 300, height: 300, format: "jpg" }}{% endcapture %}
+  {% endif %}
+  {% if bundle_product.featured_media.media_type == 'image' %}
+    {% capture bundle_product_image %}{{ bundle_product.featured_media | image_url: width: 300, height: 300 }}{% endcapture %}
+  {% endif %}
+{% endif %}
+
+<div class="cart__item" data-cart-item data-line-id="{{ forloop.index }}" data-variant-id="{{ item.id }}">
+  {% if bundle_product_image != '' %}
+    <div class="one-third column medium-down--one-whole cart__item--image">
+      <a href="{{ bundle_product.url }}" class="cart_page_image">
+        <img
+          class="cart-item__image"
+          src="{{ bundle_product_image }}"
+          loading="lazy"
+          width="150"
+          height="150"
+        >
+      </a>
+    </div>
+  {% endif %}
+
+  <div class="two-thirds columns medium-down--one-whole cart_content_info cart__item--content">
+    <h3 class="cart__item--title">
+      <a href="{{ bundle_product.url }}">{{ bundle_product.title }}</a>
+    </h3>
+
+    {%- if item.selling_plan_allocation != null -%}
+      <p class="meta">{{ item.selling_plan_allocation.selling_plan.name }}</p>
+    {%- else -%}
+      <p class="meta">(One-time)</p>
+    {%- endif -%}
+
+    {%- for item in cart.items -%}
+      {%- if item.properties._bundleUid == current_bundleUid -%}
+        <div class="bundle-subitem" style="display: flex; align-items: center;">
+          {% if item.image %}
+            {% comment %} Leave empty space due to a:empty CSS display: none rule {% endcomment %}
+            <img
+              class="cart-item__image"
+              src="{{ item.image | img_url: '30x' }}"
+              alt="{{ item.image.alt | escape }}"
+              loading="lazy"
+              width="30"
+              height="{{ 30 | divided_by: item.image.aspect_ratio | ceil }}"
+              style="margin-right: 5px; margin-left: 1px;"
+            >
+          {% endif %}
+          <div class="bundle-subitem-details">
+            {%- assign bundle_price = item.price | times: item.quantity | plus: bundle_price -%}
+            <div class="product-option">
+              <span>
+                {{- item.title }}
+                {%- if item.has_only_default_variant == false -%}| {{ item.variant.title }}{%- endif -%}
+                :
+              </span>
+              <span>{{ item.quantity }}</span>
+            </div>
+          </div>
+        </div>
+      {%- endif -%}
+    {%- endfor -%}
+
+    <p class="modal_price">
+      <span class="money">
+        {{ bundle_price | money }}
+      </span>
+    </p>
+
+    <div class="product-quantity-box left">
+      <span class="ss-icon product-minus js-change-quantity" data-func="minus"> </span>
+
+      <input
+        type="number"
+        min="0"
+        size="2"
+        class="quantity"
+        readonly
+        name="updates[]"
+        id="updates_{{ item.id }}"
+        value="1"
+        data-cart-quantity-input="cart-template"
+      >
+
+      <span class="ss-icon product-plus js-change-quantity" data-func="plus"> </span>
+    </div>
+
+    <a
+      class="cart__remove-btn cart__remove-bundle"
+      data-bundle-id="{{ current_bundleUid }}"
+      data-remove-item="cart-template"
+      ><span class="remove-text">{{ 'cart.general.remove' | t }}</span> <span class="remove-icon"></span
+    ></a>
+  </div>
+</div>

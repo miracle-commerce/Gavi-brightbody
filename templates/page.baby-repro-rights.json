@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "c378f486-26b9-4722-a183-7831d96cbdaa": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Bright-Body-Baby-For-Choice-1.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "bd37af60-3279-4f8b-82df-261b3b3892e4": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p>Hi, I'm Gabi Day, Founder & Formulator, and I am a Latina mom by choice, for choice.<br\/><br\/>We donate 1% of our sales to the Center for Reproductive Rights because we believe that parenthood should always be a choice. Period.<br\/><br\/>In the process of trying to get (and stay) pregnant, I had an abortion for an ectopic pregnancy. It was my first pregnancy after trying for years to conceive, but it was not viable. That abortion saved my life.<br\/><br\/>I went through 2 more miscarriages and 18 more months of fertility treatments until I had my identical twin boys in April of 2022. Those experiences made me more pro-choice than ever.<br\/><br\/>When SCOTUS ruled to overturn Roe v. Wade in June of 2022, I was (and still am) enraged and terrified at the future of our country. I fear for women and anyone who can become pregnant, especially for the most vulnerable among us, including people of color and those without financial privilege.<br\/><br\/>I also fear for the future of the reproductive endocrinology field and for the 1 in 8 couples who will experience the brutality that is infertility. Many \"personhood\" laws would ban and criminalize IVF, the very thing that enabled me to become a mother.<br\/><br\/>When I decided to launch Bright Body Baby, I knew I wanted to use this business as a force for good, especially in light of our new post-Roe reality.<br\/><br\/>We donate 1% of our sales to The Center for Reproductive Rights, the only global legal advocacy organization dedicated to advancing reproductive rights. The Center addresses issues that advance women's reproductive health, self-determination, and dignity, including abortion, contraception, maternal health, and more.<br\/><br\/>We understand that not everyone will be happy to hear that we donate to a pro-choice cause. That's okay, because we are not for everyone, and you have the choice to support us, or not. We are proud to be a progressive-owned business.<br\/><br\/>In solidarity,<br\/><br\/>Gabi Day<br\/>Founder, Formulator, & Feminist<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "align_left",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c378f486-26b9-4722-a183-7831d96cbdaa",
+    "bd37af60-3279-4f8b-82df-261b3b3892e4"
+  ]
+}

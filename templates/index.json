@@ -1,0 +1,426 @@
+{
+  "sections": {
+    "1635925298f47187eb": {
+      "type": "image-with-text-overlay-meroxio",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Bright-Body-Nontoxic-Refillable-Skin-Hair-Care_ac0612d3-7058-4e0c-91a1-41efb1888b43.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "shopify:\/\/collections\/bestsellers",
+        "button1_style": "global-button--banner-text-highlighted",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "left",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image-with-text-overlay-1": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Bright-Body-Nontoxic-Beauty-Zero-Waste.jpg",
+        "pretext": "<p>pro-science<\/p>",
+        "title": "Clean Beauty",
+        "subtitle": "<p>refill when you're done<\/p>",
+        "button1": "Shop Now",
+        "button1_link": "shopify:\/\/collections\/bestsellers",
+        "button1_style": "global-button--banner-text-highlighted",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "left",
+        "text_align": "left",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1663788176431a0d6d": {
+      "type": "image-text",
+      "blocks": {
+        "1663788176582afbb8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright_Body_Website-Amanda_Arnold_Photography-08510.jpg",
+            "image_crop": "none",
+            "title": "Try + love our minis or get your money back",
+            "text": "<p>Try any of our goodies in a mini size, and if you don't love 'em, reach out and you'll get your money back.<\/p>",
+            "button_label": "Shop Minis",
+            "link": "shopify:\/\/collections\/minis",
+            "bg_color": "",
+            "text_color": "#656565"
+          }
+        }
+      },
+      "block_order": [
+        "1663788176582afbb8-0"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1634748659f1a5b6a5": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 15,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "163474870273bc688f": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "163474870273bc688f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Nontoxic_61dc030f-a977-4e74-9bdf-cf24f09221cd.png",
+            "title": "Nontoxic",
+            "heading_size": "large_text",
+            "text": "<p>Made with only EWG safest rated ingredients. No bad science.<\/p>",
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/no-go-list",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "163474870273bc688f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Refillable.png",
+            "title": "Refillable",
+            "heading_size": "large_text",
+            "text": "<p>Zero waste refill pouch system. Save the planet + your wallet.<\/p>",
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/eco-friendly-refill-program",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "d2091286-5b3b-4295-92d9-c184506ed3b7": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Guaranteed_b5847779-a060-4684-ad84-88f1a872f138.png",
+            "title": "Guaranteed",
+            "heading_size": "large_text",
+            "text": "<p>We guarantee you'll love our mini sizes, or your money back.<\/p>",
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/try-it-love-it-guarantee",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        },
+        "973c2cc7-70fd-4d5d-82b7-d08703b28570": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Bunny.png",
+            "title": "Cruelty Free",
+            "heading_size": "large_text",
+            "text": "<p>Vegan ingredients + no testing on animals, ever.<\/p>",
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/cruelty-free-vegan",
+            "align_text": "center",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "163474870273bc688f-0",
+        "163474870273bc688f-1",
+        "d2091286-5b3b-4295-92d9-c184506ed3b7",
+        "973c2cc7-70fd-4d5d-82b7-d08703b28570"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1634748705b3993450": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Nontoxic-Ingredients_099b9c08-1ac5-43de-9917-4cf7afa6b00a.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "Learn More",
+        "button1_link": "shopify:\/\/pages\/no-go-list",
+        "button1_style": "global-button--banner-text-highlighted",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--primary",
+        "text_position": "left",
+        "text_align": "left",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1634749411d085a104": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "bd180236-dcd9-4448-92c9-9c01d925b955": {
+      "type": "image-text",
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "853fdf65-1ef4-4b76-8357-9552dc8b18ae": {
+      "type": "image-text",
+      "blocks": {
+        "template--14176644792395__853fdf65-1ef4-4b76-8357-9552dc8b18ae-1677376408d8870607-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/what-is-ayurveda_3d9cfab6-93c9-4c3c-a4a3-27e68312e17b.jpg",
+            "image_crop": "none",
+            "title": "Rooted In Ayurveda",
+            "text": "<p>Ayurveda is India's 5,000 year old system of traditional medicine. It uses a holistic, gentle, personalized, and adaptable approach to balanced health + wellness.<br\/><br\/>We formulate our products using many Ayurvedic principles, meaning they are gentle and nourishing, personalized to your skin type, adaptable to the seasons, and feature many unique and powerful herbs native to India.<\/p>",
+            "button_label": "Shop Bestsellers",
+            "link": "shopify:\/\/collections\/bestsellers",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "template--14176644792395__853fdf65-1ef4-4b76-8357-9552dc8b18ae-1677376408d8870607-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Amanda_Arnold_Photography-Bright_Body-04801_571788d8-1da2-4e32-86d9-24a2dd9e5f24.jpg",
+            "image_crop": "none",
+            "title": "For the eco-conscious",
+            "text": "<p>We're proud to package our products in glass and aluminum packaging and offer closed loop zero waste refills.<\/p>",
+            "button_label": "Shop All",
+            "link": "shopify:\/\/collections\/all",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14176644792395__853fdf65-1ef4-4b76-8357-9552dc8b18ae-1677376408d8870607-0",
+        "template--14176644792395__853fdf65-1ef4-4b76-8357-9552dc8b18ae-1677376408d8870607-1"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "644920bc-c997-4af4-ad8d-a07012210611": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1634749163c22b0447": {
+      "type": "custom-html",
+      "settings": {
+        "custom_html": "<div id=\"stamped-reviews-widget\" data-widget-type=\"carousel\" data-title=\"Reviews\" data-auto-play=\"false\" data-style-color-title=\"#000000\" data-style-color-star=\"#e8d98b\" data-style-color-text=\"#818387\" data-style-color-link=\"#61559a\" data-random=\"? string:Reviews ?\" data-with-photos=\"? string:#e8d98b ?\"><\/div>",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "0f4a39b2-ae55-487f-87b7-4ec0817e6736": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "",
+        "button_label": "Shop Bestsellers",
+        "button_link": "shopify:\/\/collections\/bestsellers",
+        "text_size": "featured_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "66fa2f66-f1ec-4543-b959-2ab4c96c1c66": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16347494149381a21b": {
+      "type": "image-text",
+      "blocks": {
+        "16347494149381a21b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nontoxic-Skincare.jpg",
+            "image_crop": "none",
+            "title": "Choose the Right Skincare for You",
+            "text": "<p>Give your skin exactly what it needs for healthy, vibrant, and resilient skin you're proud to show off.<\/p>",
+            "button_label": "Help Me Choose",
+            "link": "https:\/\/mybrightbody.com\/#finder-quiz-3724",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "16347494149381a21b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nontoxic-Haircare.jpg",
+            "image_crop": "none",
+            "title": "Choose The Right Hair Care For You",
+            "text": "<p>Get your hair type, texture, and density exactly what it needs for healthy, lustrous locks.<\/p>",
+            "button_label": "Help Me Choose Hair Care",
+            "link": "https:\/\/mybrightbody.com\/#finder-quiz-3741",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "16347494149381a21b-0",
+        "16347494149381a21b-1"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1634749977c43387d3": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16347499809f3a5a56": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop Our Bestsellers",
+        "collection_description": false,
+        "collection": "bestsellers",
+        "collection_style": "grid",
+        "products_per": 5,
+        "products_limit": 5,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "6ee7edfa-cc57-4e95-8190-e5a832c37512": {
+      "type": "image-text",
+      "blocks": {
+        "template--14176644792395__6ee7edfa-cc57-4e95-8190-e5a832c37512-167741870395f8cce7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mini-about-gabi-day.jpg",
+            "image_crop": "none",
+            "title": "Hi, I'm Gabi Day",
+            "text": "<p>I'm the Founder + Formulator of Bright Body and <a href=\"\/pages\/bright-body-baby\" title=\"Bright Body Baby\">Bright Body Baby<\/a>.<br\/><br\/>I'm a science + herb nerd who lives with multiple chronic illnesses. I care about nontoxic ingredients and the environment.<br\/><br\/>So when I couldn't find skin and hair care that met my standards for ingredients + packaging, I decided to make them myself.<\/p>",
+            "button_label": "Learn More",
+            "link": "shopify:\/\/pages\/our-story",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "template--14176644792395__6ee7edfa-cc57-4e95-8190-e5a832c37512-167741870395f8cce7-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mini-baby-section-gabi-twins.jpg",
+            "image_crop": "none",
+            "title": "I developed nontoxic goodies for little ones, too",
+            "text": "<p>When I became a mom of twins, I was underwhelmed by the nontoxic product options out there for littles.<br\/><br\/>They were mediocre at best, harsh at worst, and all packaged in plastic.<br\/><br\/>So I took my years of nontoxic formulation experience and set out making nontoxic + refillable goodies for babies and littles.<\/p>",
+            "button_label": "Shop Baby",
+            "link": "shopify:\/\/pages\/bright-body-baby",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14176644792395__6ee7edfa-cc57-4e95-8190-e5a832c37512-167741870395f8cce7-0",
+        "template--14176644792395__6ee7edfa-cc57-4e95-8190-e5a832c37512-167741870395f8cce7-1"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1634750497b1aed545": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "1635925298f47187eb",
+    "image-with-text-overlay-1",
+    "1663788176431a0d6d",
+    "1634748659f1a5b6a5",
+    "163474870273bc688f",
+    "1634748705b3993450",
+    "1634749411d085a104",
+    "bd180236-dcd9-4448-92c9-9c01d925b955",
+    "853fdf65-1ef4-4b76-8357-9552dc8b18ae",
+    "644920bc-c997-4af4-ad8d-a07012210611",
+    "1634749163c22b0447",
+    "0f4a39b2-ae55-487f-87b7-4ec0817e6736",
+    "66fa2f66-f1ec-4543-b959-2ab4c96c1c66",
+    "16347494149381a21b",
+    "1634749977c43387d3",
+    "16347499809f3a5a56",
+    "6ee7edfa-cc57-4e95-8190-e5a832c37512",
+    "1634750497b1aed545"
+  ]
+}

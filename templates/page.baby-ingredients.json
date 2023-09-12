@@ -1,0 +1,676 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "4f854313-f410-4aa4-b644-1e2669570d47": {
+      "type": "image-with-text-overlay-meroxio",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Ingredients-2.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "49eac256-42b6-4bf1-8064-07d00108886d": {
+      "type": "featured-text",
+      "settings": {
+        "title": "ONLY THE SAFEST INGREDIENTS, PERIOD",
+        "content": "<p>We lovingly handcraft gentle skin and hair care <strong>using only the Environmental Working Group's safest rated ingredients<\/strong>.<br\/><br\/>That means we <strong>never<\/strong> use: parabens, phthalates, petrochemicals (PEGs, PPGs), DEAs and TEAs, ethanol, propylene glycol\/propanediol, phenoxyethanol, synthetic fragrance, dyes, or color additives.<br\/><br\/>Whether natural or synthetic, every ingredient is safe, gentle, and effective for sensitive baby skin.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "align_left",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c245b434-5432-45be-96ed-91ee7a7caae5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection_description": false,
+        "collection": "baby",
+        "collection_style": "slider",
+        "products_per": 5,
+        "products_limit": 9,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "0baf4750-ca52-4823-b1c2-e849976608bf": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__0baf4750-ca52-4823-b1c2-e849976608bf-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Alkyl Benzoate",
+            "heading_size": "regular_text",
+            "text": "<p>A fatty alcohol that acts as a lightweight, fast-absorbing oil (nothing like a simple, drying alcohol). Hypoallergenic moisturizer that leaves skin silky, not greasy.<br\/><strong>EWG Rating: 1<br\/><\/strong><em>Found in<\/em>: Head To Toe Wash<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__0baf4750-ca52-4823-b1c2-e849976608bf-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Aloe Powder",
+            "heading_size": "regular_text",
+            "text": "<p>A soothing anti-inflammatory ingredient made from the desiccated gel of the aloe plant. Boosts hydration and reduces irritation.<br\/><strong>EWG Rating: 1<br\/><\/strong><em>Found in<\/em>: Head To Toe Wash, Everywhere Lotion<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__0baf4750-ca52-4823-b1c2-e849976608bf-16887560714df8eb71-0",
+        "template--19774332567832__0baf4750-ca52-4823-b1c2-e849976608bf-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "COMPLETE INGREDIENT GLOSSARY",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5a1460e3-6503-45d6-af3d-b52062ab5eb5": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__5a1460e3-6503-45d6-af3d-b52062ab5eb5-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Apricot Kernel Oil",
+            "heading_size": "regular_text",
+            "text": "<p>Deeply nourishing yet lightweight plant-based oil derived from the pits of apricots. Has antiseptic, antioxidant, and antibacterial properties.<br\/><strong>EWG Rating: 1<br\/><\/strong><em>Found in<\/em>: All Purpose Wonder Balm<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__5a1460e3-6503-45d6-af3d-b52062ab5eb5-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Beeswax",
+            "heading_size": "regular_text",
+            "text": "<p>Creates a protective barrier, moisturizes skin, and soothes irritation. Has antiseptic and anti-inflammatory properties.<br\/><strong>EWG Rating: 1<br\/><\/strong><em>Found in<\/em>: Booty Barrier Cream<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__5a1460e3-6503-45d6-af3d-b52062ab5eb5-16887560714df8eb71-0",
+        "template--19774332567832__5a1460e3-6503-45d6-af3d-b52062ab5eb5-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "0bd6bc23-f1b3-4ec4-bf99-f4808ddc860e": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__0bd6bc23-f1b3-4ec4-bf99-f4808ddc860e-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Chamomile Flowers",
+            "heading_size": "regular_text",
+            "text": "<p>Used to make a soothing chamomile tea base for our All Purpose Wonder Balm. Has anti-inflammatory, antibacterial, and antifungal properties and promotes skin healing.<br\/><strong>EWG Rating: 2<\/strong><br\/><em>Found in<\/em>: All Purpose Wonder Balm<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__0bd6bc23-f1b3-4ec4-bf99-f4808ddc860e-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Citric Acid",
+            "heading_size": "regular_text",
+            "text": "<p>Corn-derived pH balancer. All soaps and cleaning agents are alkaline by nature, so citric acid is used to keep the pH as close to baby skin's natural pH (4.5 - 5.5).<br\/><strong>EWG Rating: 2<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__0bd6bc23-f1b3-4ec4-bf99-f4808ddc860e-16887560714df8eb71-0",
+        "template--19774332567832__0bd6bc23-f1b3-4ec4-bf99-f4808ddc860e-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "997239f8-07ca-4391-bacb-dd1fda8fb227": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__997239f8-07ca-4391-bacb-dd1fda8fb227-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Decyl Glucoside",
+            "heading_size": "regular_text",
+            "text": "<p>Corn and coconut-derived nonionic surfactant (cleaning agent). Low suds and non-stripping. Sulfate-free. Gentle on baby's sensitive skin.<br\/><strong>EWG Rating: 2<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__997239f8-07ca-4391-bacb-dd1fda8fb227-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Disodium Cocoamphodiacetate",
+            "heading_size": "regular_text",
+            "text": "<p>Coconut-derived amphoteric surfactant (cleaning agent). Low suds and non-stripping. Sulfate-free. Gentle on baby's sensitive skin.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__997239f8-07ca-4391-bacb-dd1fda8fb227-16887560714df8eb71-0",
+        "template--19774332567832__997239f8-07ca-4391-bacb-dd1fda8fb227-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "cc714db7-8fb1-4ffe-95e4-b04493caf897": {
+      "type": "featured-text",
+      "settings": {
+        "title": "Disunfloweroylethyl Dimonium Chloride (and) Sunflower Seed Oil Glycerides (and) Lauryl Lactyl Lactate",
+        "content": "<p>Sunflower-derived conditioning and detangling agent that improves wet and dry combability without buildup.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash, Conditioner<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "align_left",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "39e9a806-8c92-4ca7-a7a6-dbb4784649c5": {
+      "type": "gallery",
+      "blocks": {
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bath-Time-Bundle-Organic-Baby-Shampoo-Conditioner-Refills-Baby-Kid.jpg"
+          }
+        },
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-AOO-For-Eczema-Refills-Texture-1.jpg"
+          }
+        },
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Bath-Time-Bundle-Zuri.jpg"
+          }
+        },
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Amanda_Arnold_Photography-Bright-Body-Baby-08369.jpg"
+          }
+        },
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-AOO.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-0",
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-1",
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-2",
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-3",
+        "template--19774332567832__39e9a806-8c92-4ca7-a7a6-dbb4784649c5-168875643663969083-4"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 5,
+        "enable_lightbox": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "05524f80-fbd8-457f-b693-12f086e32ece": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__05524f80-fbd8-457f-b693-12f086e32ece-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Essential Oil Scents",
+            "heading_size": "regular_text",
+            "text": "<p>While all of our products are available in unscented formulas, some are available in scents blended exclusively with whole essential oils in 1% concentration or less. By contrast, synthetic fragrance is the #1 allergen and disclosure of the contents of synthetic fragrance is not required.<br\/><strong>EWG Rating: depends on the essential oil + its concentration<\/strong><br\/><em>Found in<\/em>: scented versions of Head To Toe Wash, Conditioner, Everywhere Lotion<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__05524f80-fbd8-457f-b693-12f086e32ece-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Gluconodeltalactone and Sodium Benzoate",
+            "heading_size": "regular_text",
+            "text": "<p>An organic acid preservative used to prevent microbial and fungal growth in any products containing water-based ingredients.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash, Conditioner, Everywhere Lotion, All Purpose Wonder Balm<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__05524f80-fbd8-457f-b693-12f086e32ece-16887560714df8eb71-0",
+        "template--19774332567832__05524f80-fbd8-457f-b693-12f086e32ece-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "6996211a-2466-489c-9f4e-6f43661be10e": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__6996211a-2466-489c-9f4e-6f43661be10e-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Glyceryl Stearate",
+            "heading_size": "regular_text",
+            "text": "<p>An ECOCERT-certified emulsifier used to create stable, creamy products out of a combination of water and oil-based ingredients. Also has moisturizing properties.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash, Conditioner, Everywhere Lotion, All Purpose Wonder Balm<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__6996211a-2466-489c-9f4e-6f43661be10e-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Hydrogenated Ethylhexyl Olivate & Olive Oil Unsaponifiables",
+            "heading_size": "regular_text",
+            "text": "<p>An eco-friendly and nontoxic alternative to silicones. Moisturizes and smooths skin and improves the shine and manageability of hair.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash, Conditioner, Everywhere Lotion, All Purpose Wonder Balm<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__6996211a-2466-489c-9f4e-6f43661be10e-16887560714df8eb71-0",
+        "template--19774332567832__6996211a-2466-489c-9f4e-6f43661be10e-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d28a858b-87ef-44fb-b79b-d4f4b25b8b5e": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__d28a858b-87ef-44fb-b79b-d4f4b25b8b5e-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Hydrolyzed Quinoa Protein",
+            "heading_size": "regular_text",
+            "text": "<p>Plant-derived multi-purpose ingredient that improves skin and hair's retention of moisture (oil) and hydration (water). Also boosts skin and hair repair due to high protein content. Has anti-inflammatory and antioxidant properties.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash, All Purpose Wonder Balm<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__d28a858b-87ef-44fb-b79b-d4f4b25b8b5e-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Isoamyl Laurate",
+            "heading_size": "regular_text",
+            "text": "<p>An ECOCERT-certified plant-based ester oil as an eco-friendly nontoxic alternative to silicones. Feels like a lightweight, fast-absorbing oil and improves spreadability. Hypoallergenic moisturizer that leaves skin silky, not greasy.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Booty Barrier Cream, Conditioner<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__d28a858b-87ef-44fb-b79b-d4f4b25b8b5e-16887560714df8eb71-0",
+        "template--19774332567832__d28a858b-87ef-44fb-b79b-d4f4b25b8b5e-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "146ae229-7295-4620-881b-d9aa5df040ca": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__146ae229-7295-4620-881b-d9aa5df040ca-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Jojoba Esters",
+            "heading_size": "regular_text",
+            "text": "<p>Hydrogenated form of jojoba oil. A semi-solid cream\/paste that moisturizes and smooths with a non-oily feel.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Booty Barrier Cream, Everywhere Lotion, All Purpose Wonder Balm<br\/><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__146ae229-7295-4620-881b-d9aa5df040ca-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Jojoba Oil",
+            "heading_size": "regular_text",
+            "text": "<p>Hypoallergenic plant-based oil with a very similar structure to skin's natural sebum (oil). Noncomedogenic and anti-inflammatory.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Booty Barrier Cream, Everywhere Lotion<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__146ae229-7295-4620-881b-d9aa5df040ca-16887560714df8eb71-0",
+        "template--19774332567832__146ae229-7295-4620-881b-d9aa5df040ca-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c3c33f51-dfb5-495b-94f7-a12d9bfc78c6": {
+      "type": "gallery",
+      "blocks": {
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-EWG-Safest-Ingredients.jpg"
+          }
+        },
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-All-Purpose-Wonder-Balm-AOO-Cheek-Sisters.jpg"
+          }
+        },
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Amanda_Arnold_Photography-Bright-Body-Baby-08254.jpg"
+          }
+        },
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Bath-Time-Mama-Zero-Waste-Baby-Products.jpg"
+          }
+        },
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Conditioner-Silicone-Free-Texture.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-0",
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-1",
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-2",
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-3",
+        "template--19774332567832__c3c33f51-dfb5-495b-94f7-a12d9bfc78c6-168875643663969083-4"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 5,
+        "enable_lightbox": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "934e7487-83dd-403e-a03d-9678f4261d29": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__934e7487-83dd-403e-a03d-9678f4261d29-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Shea Nut Butter",
+            "heading_size": "regular_text",
+            "text": "<p>Richly moisturizing plant-based butter used to soften skin and lock in moisture. Has anti-inflammatory properties.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Booty Barrier Cream, Everywhere Lotion, All Purpose Wonder Balm<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__934e7487-83dd-403e-a03d-9678f4261d29-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Sodium Alginate",
+            "heading_size": "regular_text",
+            "text": "<p>An algae-derived thickening\/gelling agent with skin conditioning properties.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Conditioner<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__934e7487-83dd-403e-a03d-9678f4261d29-16887560714df8eb71-0",
+        "template--19774332567832__934e7487-83dd-403e-a03d-9678f4261d29-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "3ab96ebc-cb77-4eed-a2d8-8b16827e7b18": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__3ab96ebc-cb77-4eed-a2d8-8b16827e7b18-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Sodium Lauroyl Isethionate",
+            "heading_size": "regular_text",
+            "text": "<p>A coconut-derived anionic surfactant (cleaning agent) that offers creamy suds without stripping moisture. Sulfate-free. Gentle on baby's sensitive skin.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__3ab96ebc-cb77-4eed-a2d8-8b16827e7b18-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Sunflower Oil",
+            "heading_size": "regular_text",
+            "text": "<p>A lightweight plant-based oil that softens skin and helps it retain moisture. Has anti-inflammatory properties.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Booty Barrier Cream, Head To Toe Wash, Conditioner<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__3ab96ebc-cb77-4eed-a2d8-8b16827e7b18-16887560714df8eb71-0",
+        "template--19774332567832__3ab96ebc-cb77-4eed-a2d8-8b16827e7b18-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4c2dc8cd-dd4f-49dc-9fe5-66ecc696aed8": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__4c2dc8cd-dd4f-49dc-9fe5-66ecc696aed8-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Vegetable Glycerin",
+            "heading_size": "regular_text",
+            "text": "<p>Derived from organic sunflower, flaxseed, and\/or coconut oils. Helps bind and retain moisture at skin's surface.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash, Conditioner, Everywhere Lotion, All Purpose Wonder Balm<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__4c2dc8cd-dd4f-49dc-9fe5-66ecc696aed8-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Water & Althaea Officinalis Leaf\/Root Extract",
+            "heading_size": "regular_text",
+            "text": "<p>AKA Marshmallow Extract. Herbal conditioning and detangling agent with emollient and mucilaginous properties.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Conditioner<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__4c2dc8cd-dd4f-49dc-9fe5-66ecc696aed8-16887560714df8eb71-0",
+        "template--19774332567832__4c2dc8cd-dd4f-49dc-9fe5-66ecc696aed8-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "a6bfeb5c-c161-4658-99df-8dfbb3bbec97": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19774332567832__a6bfeb5c-c161-4658-99df-8dfbb3bbec97-16887560714df8eb71-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Xanthan Gum",
+            "heading_size": "regular_text",
+            "text": "<p>Food-grade thickener used to increase the viscosity of formulas. Also has mild skin moisturizing properties.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Head To Toe Wash, Conditioner, Everywhere Lotion, All Purpose Wonder Balm<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        },
+        "template--19774332567832__a6bfeb5c-c161-4658-99df-8dfbb3bbec97-16887560714df8eb71-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "title": "Zinc Oxide",
+            "heading_size": "regular_text",
+            "text": "<p>Non-nano zinc oxide that forms a barrier on skin's surface to keep skin hydrated and moisturized while also protecting from external irritants. Has anti-inflammatory and antibacterial properties.<br\/><strong>EWG Rating: 1<\/strong><br\/><em>Found in<\/em>: Booty Barrier Cream<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "align_text": "left",
+            "border_style": "none"
+          }
+        }
+      },
+      "block_order": [
+        "template--19774332567832__a6bfeb5c-c161-4658-99df-8dfbb3bbec97-16887560714df8eb71-0",
+        "template--19774332567832__a6bfeb5c-c161-4658-99df-8dfbb3bbec97-16887560714df8eb71-1"
+      ],
+      "settings": {
+        "title": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4f854313-f410-4aa4-b644-1e2669570d47",
+    "49eac256-42b6-4bf1-8064-07d00108886d",
+    "c245b434-5432-45be-96ed-91ee7a7caae5",
+    "0baf4750-ca52-4823-b1c2-e849976608bf",
+    "5a1460e3-6503-45d6-af3d-b52062ab5eb5",
+    "0bd6bc23-f1b3-4ec4-bf99-f4808ddc860e",
+    "997239f8-07ca-4391-bacb-dd1fda8fb227",
+    "cc714db7-8fb1-4ffe-95e4-b04493caf897",
+    "39e9a806-8c92-4ca7-a7a6-dbb4784649c5",
+    "05524f80-fbd8-457f-b693-12f086e32ece",
+    "6996211a-2466-489c-9f4e-6f43661be10e",
+    "d28a858b-87ef-44fb-b79b-d4f4b25b8b5e",
+    "146ae229-7295-4620-881b-d9aa5df040ca",
+    "c3c33f51-dfb5-495b-94f7-a12d9bfc78c6",
+    "934e7487-83dd-403e-a03d-9678f4261d29",
+    "3ab96ebc-cb77-4eed-a2d8-8b16827e7b18",
+    "4c2dc8cd-dd4f-49dc-9fe5-66ecc696aed8",
+    "a6bfeb5c-c161-4658-99df-8dfbb3bbec97"
+  ]
+}

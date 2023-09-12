@@ -1,0 +1,25 @@
+{% if template contains 'index' %}
+ 
+
+<link rel="preload" as="image" href="https://cdn.shopify.com/s/files/1/2715/6058/files/Bright-Body-Nontoxic-Beauty-Zero-Waste_1800x.jpg?v=1634748087">
+
+{%endif%}
+
+
+{% if template contains 'collection' %}
+<link rel="preload" as="image" template="{{template}}" href="{{collection.products.first.featured_image | img_url:'400x'}}">
+{%endif%}
+
+
+{% if template contains 'product' %}
+<link rel="preload" as="image" href="{{ product.featured_image | img_url: '700x' }}">
+{%endif%}
+
+<link rel="preconnect" href="//fonts.shopifycdn.com/" crossorigin>
+<link rel="preconnect" href="//cdn.shopify.com/" crossorigin>
+<link rel="preconnect" href="//v.shopify.com/" crossorigin>
+<link rel="dns-prefetch" href="//{{shop.domain}}" crossorigin>
+<link rel="dns-prefetch" href="//{{shop.permanent_domain}}" crossorigin>
+<link rel="dns-prefetch" href="//cdn.shopify.com" crossorigin>
+<link rel="dns-prefetch" href="//v.shopify.com" crossorigin>
+<link rel="dns-prefetch" href="//fonts.shopifycdn.com" crossorigin>

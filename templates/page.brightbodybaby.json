@@ -1,0 +1,191 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+      }
+    },
+    "13e0c244-d4ee-470c-87aa-e258c464e392": {
+      "type": "image-with-text-overlay-meroxio",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Bright-Body-Nontoxic-Refillable-Baby-Care_263c23ca-3eec-4512-8ff6-37aa3d7937f1.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "shopify:\/\/collections\/baby",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "d17e2886-bf7c-489b-a888-bca61d9aacd8": {
+      "type": "image-text",
+      "blocks": {
+        "template--14176645021771__d17e2886-bf7c-489b-a888-bca61d9aacd8-1677376408d8870607-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Happiness-Guaranteed_600x_1abe7e10-a208-4d9c-91a1-f8273d259539.webp",
+            "image_crop": "none",
+            "title": "Happiness Guaranteed",
+            "text": "<p>Try any of our goodies in mini, and if you don't love 'em, you get your money back.<\/p>",
+            "button_label": "Learn More",
+            "link": "shopify:\/\/pages\/try-it-love-it-guarantee",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14176645021771__d17e2886-bf7c-489b-a888-bca61d9aacd8-1677376408d8870607-0"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "5a46ac58-26f6-429d-abb0-c3b0296382e1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Bestsellers",
+        "collection_description": false,
+        "collection": "baby-bestsellers",
+        "collection_style": "slider",
+        "products_per": 3,
+        "products_limit": 6,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1fbd4e0c-6c7c-4662-bdbb-513fe0791283": {
+      "type": "image-text",
+      "blocks": {
+        "template--19770458636568__1fbd4e0c-6c7c-4662-bdbb-513fe0791283-16887350535d0c4468-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-EWG-Safest-Ingredients-1_600x_08f61a2c-1cb3-4c59-abad-4c266744ff55.webp",
+            "image_crop": "none",
+            "title": "EWG Safest Ingredients",
+            "text": "<p>Every ingredient we use has the safest possible rating from the Environmental Working Group. Because your kiddos deserve it.<\/p>",
+            "button_label": "Learn More",
+            "link": "shopify:\/\/pages\/no-go-list",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "template--19770458636568__1fbd4e0c-6c7c-4662-bdbb-513fe0791283-16887350535d0c4468-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Head-To-Toe-Wash-Texture-Herb-Organic-Baby-Shampoo_600x_c4b244aa-0d5e-4995-94ff-27314ddf98fa.webp",
+            "image_crop": "none",
+            "title": "Zero Waste Refills",
+            "text": "<p>Our goodies come in aluminum and glass packaging, and we offer a fully circular refill system.<br\/><br\/>Because caring for our kiddos means caring for the planet they will inherit.<\/p>",
+            "button_label": "Learn More",
+            "link": "#",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19770458636568__1fbd4e0c-6c7c-4662-bdbb-513fe0791283-16887350535d0c4468-0",
+        "template--19770458636568__1fbd4e0c-6c7c-4662-bdbb-513fe0791283-16887350535d0c4468-1"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1688732757ec38dc93": {
+      "type": "apps",
+      "blocks": {
+        "87eefc24-4a7f-4556-902b-b9e06df15861": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "title": "Reviews",
+            "auto_play": false,
+            "take": 30,
+            "color_title": "",
+            "color_star": "",
+            "color_text": "",
+            "color_link": "",
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "Bright Body Baby",
+            "tags": "",
+            "min_rating": "none",
+            "fill_empty": true,
+            "random": false,
+            "with_photos": false
+          }
+        }
+      },
+      "block_order": [
+        "87eefc24-4a7f-4556-902b-b9e06df15861"
+      ],
+      "settings": {
+      }
+    },
+    "9eda73d6-c367-4e8c-8cb3-b683ec26ad7f": {
+      "type": "image-text",
+      "blocks": {
+        "template--19770458636568__9eda73d6-c367-4e8c-8cb3-b683ec26ad7f-16887350535d0c4468-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gabi-Day-Bright-Body-Baby_600x_3f601f9c-8e2c-4573-a365-ed003983d8e3.webp",
+            "image_crop": "none",
+            "title": "Hi, I'm Gabi Day",
+            "text": "<p>I'm the Founder & Formulator of <a href=\"https:\/\/mybrightbody.com\" title=\"https:\/\/mybrightbody.com\">Bright Body<\/a> and Bright Body Baby.<br\/><br\/>I'm a mom of twins and I live with multiple chronic illnesses. I care about nontoxic ingredients & the environment.<br\/><br\/>So when I couldn't find baby products that met my standards for ingredients and packaging, I decided to make them myself.<\/p>",
+            "button_label": "Learn More",
+            "link": "shopify:\/\/pages\/our-story",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19770458636568__9eda73d6-c367-4e8c-8cb3-b683ec26ad7f-16887350535d0c4468-0"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "13e0c244-d4ee-470c-87aa-e258c464e392",
+    "d17e2886-bf7c-489b-a888-bca61d9aacd8",
+    "5a46ac58-26f6-429d-abb0-c3b0296382e1",
+    "1fbd4e0c-6c7c-4662-bdbb-513fe0791283",
+    "1688732757ec38dc93",
+    "9eda73d6-c367-4e8c-8cb3-b683ec26ad7f"
+  ]
+}

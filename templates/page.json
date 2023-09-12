@@ -1,0 +1,42 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "settings": {
+      }
+    },
+    "d17e2886-bf7c-489b-a888-bca61d9aacd8": {
+      "type": "image-text",
+      "blocks": {
+        "template--14176645021771__d17e2886-bf7c-489b-a888-bca61d9aacd8-1677376408d8870607-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright_Body_Website-Amanda_Arnold_Photography-08510.jpg",
+            "image_crop": "none",
+            "title": "Shop Minis",
+            "text": "<p>Love them or get your money back.<\/p>",
+            "button_label": "Shop Minis",
+            "link": "shopify:\/\/collections\/minis",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14176645021771__d17e2886-bf7c-489b-a888-bca61d9aacd8-1677376408d8870607-0"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "d17e2886-bf7c-489b-a888-bca61d9aacd8"
+  ]
+}

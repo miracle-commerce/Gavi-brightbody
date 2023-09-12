@@ -1,0 +1,2159 @@
+{
+  "presets": {
+    "Day": {
+      "performance": "ludicrous",
+      "image_loading_style": "blur-up",
+      "custom_scripts": "",
+      "logo_color": "#f5b661",
+      "regular_color": "#727272",
+      "banner_color": "#ffffff",
+      "headline_color": "#f5b661",
+      "headline_footer_text_color": "#3349b5",
+      "sub_footer_text_color": "#ffffff",
+      "sale_color": "#ff3099",
+      "was_price_color": "#727272",
+      "product_hover_text_color": "#ffffff",
+      "promo_text_color": "#ffffff",
+      "shop_home_page_content_text_color": "#727272",
+      "newsletter_popup_color": "#3349b5",
+      "newsletter_section_color": "#727272",
+      "collection_filter_color": "#3349b5",
+      "top_bar_color": "#3349b5",
+      "top_bar_color_hover": "#3349b5",
+      "nav_color": "#3349b5",
+      "nav_color_home": "#3349b5",
+      "nav_color_hover": "#3349b5",
+      "link_color": "#3349b5",
+      "link_hover_color": "#3349b5",
+      "sidebar_nav_color": "#3349b5",
+      "sidebar_nav_color_hover": "#3349b5",
+      "sub_footer_link_color": "#ffffff",
+      "sub_footer_link_color_hover": "#3349b5",
+      "btn_color": "#fcc57c",
+      "banner_button_color": "#3349b5",
+      "btn_hover_color": "#3349b5",
+      "btn_text_color": "#ffffff",
+      "button_style": "square",
+      "read_more_style": "link",
+      "swatch_style": "rounded",
+      "table_styles_enabled": true,
+      "slideshow_arrow_size": "bold",
+      "arrow_color": "#e0e0e0",
+      "slideshow_button_style": false,
+      "slideshow_nav_buttons": true,
+      "border_color": "#fcc57c",
+      "headline_border_color": "#3349b5",
+      "headline_border": "4",
+      "divider_style": "dashed",
+      "sub_footer_border_color": "#ffffff",
+      "banner_style": "square",
+      "sale_banner_color": "#ff3099",
+      "new_banner_color": "#3349b5",
+      "search_section_color": "#3349b5",
+      "search_section_bg_color": "#fff1df",
+      "testimonial_color": "#ffffff",
+      "testimonial_bg_color": "#77c6d8",
+      "featured_promotions_color": "#fff",
+      "featured_promotions_color_hover": "#fff",
+      "featured_promotions_background": "#77c6d8",
+      "featured_promotions_mobile_background": true,
+      "modal_background_color": "#ffffff",
+      "modal_text_color": "#3349b5",
+      "shop_bg_color": "#ffffff",
+      "custom_bg": "",
+      "repeat_bg": "no-repeat",
+      "bg_fixed": false,
+      "bg_stretched": false,
+      "top_bar_bg_color": "#ffffff",
+      "top_bar_cart_bg_color": "#ffffff",
+      "minicart_bg_color": "#fff7ed",
+      "banner_placeholder_background_color": "#ffffff",
+      "banner_background_color": "#fadab0",
+      "header_bg_color": "#ffffff",
+      "header_background": true,
+      "transparent_header": false,
+      "promo_bg_color": "#3349b5",
+      "shop_home_page_content_bg_color": "#f9d5a5",
+      "featured_links_background": "#ffffff",
+      "product_hover_bg_color": "#77c6d8",
+      "sub_footer_color": "#ee8e8e",
+      "footer_bg": "",
+      "footer_bg_stretched": false,
+      "newsletter_popup_background_color": "#ffffff",
+      "newsletter_section_background_color": "#fff1df",
+      "password_page_text_color": "#ffffff",
+      "password_page_background_color": "#77c6d8",
+      "logo__font": "harmonia_sans_n9",
+      "logo_font_style": "uppercase",
+      "logo_font_size": 20,
+      "top_bar_font_size": 12,
+      "top_bar_letter_spacing": 1,
+      "nav__font": "work_sans_n5",
+      "nav_font_style": "none",
+      "nav_font_size": 18,
+      "nav_letter_spacing": 1,
+      "nav_shadow": false,
+      "button_weight": "bold",
+      "button_font_style": "none",
+      "button_font_size": 16,
+      "mega_text_font_size": 14,
+      "mega_text_letter_spacing": 1,
+      "headline__font": "harmonia_sans_n9",
+      "headline_font_style": "none",
+      "headline_font_size": 44,
+      "headline_letter_spacing": 1,
+      "slideshow_headline__font": "harmonia_sans_n9",
+      "slideshow_headline_font_style": "none",
+      "slideshow_headline_size": 60,
+      "slideshow_headline_letter_spacing": 1,
+      "slideshow_headline_shadow": false,
+      "slideshow_subtitle__font": "work_sans_n4",
+      "slideshow_subtitle_font_style": "none",
+      "slideshow_subtitle_size": 16,
+      "slideshow_subtitle_letter_spacing": 1,
+      "slideshow_shadow": false,
+      "regular__font": "work_sans_n4",
+      "regular_font_style": "none",
+      "regular_font_size": 18,
+      "footer_logo_font_size": 20,
+      "footer_heading_font_size": 16,
+      "footer_font_size": 16,
+      "mega_menu_1": true,
+      "mega_menu_2": false,
+      "mega_menu_3": false,
+      "mega_menu_4": false,
+      "mega_menu_5": false,
+      "search_option": "products",
+      "search_pagination_type": "basic_pagination",
+      "enable_autocomplete": true,
+      "search_to_display": 10,
+      "thumbnail_hover_enabled": false,
+      "display_vendor": false,
+      "collection_secondary_image": false,
+      "sale_banner_enabled": true,
+      "collection_swatches": false,
+      "mobile_products_per_row": "1",
+      "pagination_type": "basic_pagination",
+      "align_height": false,
+      "collection_height": 200,
+      "notify_me_form": true,
+      "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+      "product_form_style": "swatches",
+      "display_product_quantity": false,
+      "limit_quantity": false,
+      "display_inventory_left": false,
+      "inventory_threshold": 10,
+      "display_price": false,
+      "sold_out_text": "Sold out",
+      "free_price_text": "Free",
+      "size_chart": "",
+      "enable_shopify_review_comments": true,
+      "enable_shopify_collection_badges": true,
+      "quick_shop_enabled": true,
+      "quick_shop_style": "inline",
+      "show_payment_button": true,
+      "quick_shop_display_vendor": false,
+      "quick_shop_display_savings": true,
+      "quick_shop_zoom": true,
+      "quick_shop_full_description": false,
+      "description_words": 25,
+      "quick_shop_product_description_position": "top",
+      "quick_shop_gallery_arrows": true,
+      "quick_shop_slideshow_animation": "slide",
+      "quick_shop_product_images_position": "left",
+      "quick_shop_product_thumbs": true,
+      "quick_shop_thumbnail_position": "bottom-thumbnails",
+      "cart_action": "ajax",
+      "show_lock_icon": true,
+      "display_tos_checkbox": true,
+      "tos_page": "",
+      "go_to_checkout": true,
+      "display_special_instructions": false,
+      "display_savings": true,
+      "cart_message": "",
+      "show_shipping_calculator": true,
+      "shipping_calculator_default_country": "United States",
+      "show_multiple_currencies": true,
+      "currency_format": "money_format",
+      "supported_currencies": "USD CAD AUD GBP EUR JPY",
+      "default_currency": "CAD",
+      "mailchimp_link": "",
+      "secondary_newsletter_banner": true,
+      "newsletter_popup": false,
+      "newsletter_popup_close": false,
+      "newsletter_popup_mobile": false,
+      "newsletter_popup_form": false,
+      "display_first_name": false,
+      "display_last_name": false,
+      "use_newsletter_border": false,
+      "newsletter_bg": "",
+      "image_crop": "none",
+      "newsletter_popup_image_align": "left",
+      "newsletter_popup_title": "Age verification",
+      "newsletter_popup_text": "<p>You can use this popup as an age gate, to control access to content.<br> <strong><a href=\"https:\/\/help.outofthesandbox.com\/hc\/en-us\/articles\/115014370088\" title=\"https:\/\/help.outofthesandbox.com\/hc\/en-us\/articles\/115014370088\">More details<\/a><\/strong><\/p>",
+      "newsletter_popup_text_align": "center",
+      "popup_button1": "Under 21",
+      "popup_button1_link": "",
+      "popup_button1_highlight": false,
+      "popup_button2": "21+ (Enter)",
+      "popup_button2_link": "",
+      "popup_button2_highlight": true,
+      "newsletter_popup_seconds": 4,
+      "newsletter_popup_days": "0",
+      "twitter_link": "https:\/\/twitter.com\/shopify",
+      "facebook_link": "https:\/\/facebook.com\/shopify",
+      "youtube_link": "",
+      "vimeo_link": "",
+      "pinterest_link": "",
+      "tumblr_link": "",
+      "instagram_link": "https:\/\/instagram.com\/shopify",
+      "snapchat_link": "",
+      "houzz_link": "",
+      "linkedin_link": "",
+      "email_link": "",
+      "og_image_fallback": "shopify:\/\/shop_images\/chicago-day-social-share-image.jpg",
+      "favicon": "",
+      "disqus_enabled": false,
+      "disqus_shortname": "",
+      "checkout_header_image": "shopify:\/\/shop_images\/banner-faq.jpg",
+      "checkout_logo_image": "shopify:\/\/shop_images\/chicago-logo-2020_white.png",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff1df",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#ffffff",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#3349b5",
+      "checkout_button_color": "#3349b5",
+      "checkout_error_color": "#e32c2b"
+    },
+    "Night": {
+      "performance": "ludicrous",
+      "image_loading_style": "blur-up",
+      "custom_scripts": "",
+      "logo_color": "#ffffff",
+      "regular_color": "#f8f8f8",
+      "banner_color": "#ffffff",
+      "headline_color": "#8f98a6",
+      "headline_footer_text_color": "#ffffff",
+      "sub_footer_text_color": "#6b6b6b",
+      "sale_color": "#be3469",
+      "was_price_color": "#e7e8e9",
+      "product_hover_text_color": "#ffffff",
+      "promo_text_color": "#000000",
+      "shop_home_page_content_text_color": "#f8f8f8",
+      "newsletter_popup_color": "#fcac79",
+      "newsletter_section_color": "#f8f8f8",
+      "collection_filter_color": "#fcac79",
+      "top_bar_color": "#ffffff",
+      "top_bar_color_hover": "#fcac79",
+      "nav_color": "#d9d9d9",
+      "nav_color_home": "#d9d9d9",
+      "nav_color_hover": "#fcac79",
+      "link_color": "#8f98a6",
+      "link_hover_color": "#ed7529",
+      "sidebar_nav_color": "#ffffff",
+      "sidebar_nav_color_hover": "#fcac79",
+      "sub_footer_link_color": "#797d83",
+      "sub_footer_link_color_hover": "#ed7529",
+      "btn_color": "#fcac79",
+      "banner_button_color": "#fcac79",
+      "btn_hover_color": "#ed7529",
+      "btn_text_color": "#1f2233",
+      "button_style": "square",
+      "read_more_style": "link",
+      "swatch_style": "rounded",
+      "table_styles_enabled": true,
+      "slideshow_arrow_size": "bold",
+      "arrow_color": "#333333",
+      "slideshow_button_style": false,
+      "slideshow_nav_buttons": true,
+      "border_color": "#49515e",
+      "headline_border_color": "#49515e",
+      "headline_border": "4",
+      "divider_style": "dashed",
+      "sub_footer_border_color": "rgba(0,0,0,0)",
+      "banner_style": "square",
+      "sale_banner_color": "#be3469",
+      "new_banner_color": "#49515e",
+      "search_section_color": "#ffffff",
+      "search_section_bg_color": "#797d83",
+      "testimonial_color": "#ffffff",
+      "testimonial_bg_color": "#797d83",
+      "featured_promotions_color": "#ffffff",
+      "featured_promotions_color_hover": "#ffffff",
+      "featured_promotions_background": "#000000",
+      "featured_promotions_mobile_background": true,
+      "modal_background_color": "#1f2233",
+      "modal_text_color": "#ffffff",
+      "shop_bg_color": "#1f2233",
+      "custom_bg": "",
+      "repeat_bg": "repeat",
+      "bg_fixed": false,
+      "bg_stretched": false,
+      "top_bar_bg_color": "#1f2233",
+      "top_bar_cart_bg_color": "#1f2233",
+      "minicart_bg_color": "#49515e",
+      "banner_placeholder_background_color": "#666666",
+      "banner_background_color": "#1f2233",
+      "header_bg_color": "#1f2233",
+      "header_background": true,
+      "transparent_header": false,
+      "promo_bg_color": "#fcac79",
+      "shop_home_page_content_bg_color": "#12151f",
+      "featured_links_background": "#1f2233",
+      "product_hover_bg_color": "#1f2233",
+      "sub_footer_color": "#12151f",
+      "footer_bg": "",
+      "footer_bg_stretched": false,
+      "newsletter_popup_background_color": "#1f2233",
+      "newsletter_section_background_color": "#242d3c",
+      "password_page_text_color": "#ffffff",
+      "password_page_background_color": "#000000",
+      "logo__font": "harmonia_sans_n9",
+      "logo_font_style": "none",
+      "logo_font_size": 19,
+      "top_bar_font_size": 12,
+      "top_bar_letter_spacing": 1,
+      "nav__font": "work_sans_n5",
+      "nav_font_style": "none",
+      "nav_font_size": 18,
+      "nav_letter_spacing": 1,
+      "nav_shadow": false,
+      "button_weight": "bold",
+      "button_font_style": "none",
+      "button_font_size": 16,
+      "mega_text_font_size": 14,
+      "mega_text_letter_spacing": 1,
+      "headline__font": "harmonia_sans_n9",
+      "headline_font_style": "none",
+      "headline_font_size": 44,
+      "headline_letter_spacing": 1,
+      "slideshow_headline__font": "harmonia_sans_n9",
+      "slideshow_headline_font_style": "none",
+      "slideshow_headline_size": 60,
+      "slideshow_headline_letter_spacing": 1,
+      "slideshow_headline_shadow": false,
+      "slideshow_subtitle__font": "work_sans_n4",
+      "slideshow_subtitle_font_style": "none",
+      "slideshow_subtitle_size": 16,
+      "slideshow_subtitle_letter_spacing": 1,
+      "slideshow_shadow": false,
+      "regular__font": "work_sans_n4",
+      "regular_font_style": "none",
+      "regular_font_size": 18,
+      "footer_logo_font_size": 20,
+      "footer_heading_font_size": 16,
+      "footer_font_size": 16,
+      "mega_menu_1": true,
+      "mega_menu_2": false,
+      "mega_menu_3": false,
+      "mega_menu_4": false,
+      "mega_menu_5": false,
+      "search_option": "products",
+      "search_pagination_type": "basic_pagination",
+      "enable_autocomplete": true,
+      "search_to_display": 5,
+      "thumbnail_hover_enabled": false,
+      "display_vendor": false,
+      "collection_secondary_image": false,
+      "sale_banner_enabled": true,
+      "collection_swatches": false,
+      "mobile_products_per_row": "1",
+      "pagination_type": "basic_pagination",
+      "align_height": false,
+      "collection_height": 200,
+      "notify_me_form": true,
+      "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+      "product_form_style": "swatches",
+      "display_product_quantity": false,
+      "limit_quantity": false,
+      "display_inventory_left": false,
+      "inventory_threshold": 10,
+      "display_price": false,
+      "sold_out_text": "Sold out",
+      "free_price_text": "Free",
+      "size_chart": "",
+      "enable_shopify_review_comments": true,
+      "enable_shopify_collection_badges": true,
+      "quick_shop_enabled": true,
+      "quick_shop_style": "inline",
+      "show_payment_button": true,
+      "quick_shop_display_vendor": false,
+      "quick_shop_display_savings": true,
+      "quick_shop_zoom": false,
+      "quick_shop_full_description": false,
+      "description_words": 25,
+      "quick_shop_product_description_position": "top",
+      "quick_shop_gallery_arrows": true,
+      "quick_shop_slideshow_animation": "slide",
+      "quick_shop_product_images_position": "left",
+      "quick_shop_product_thumbs": true,
+      "quick_shop_thumbnail_position": "bottom-thumbnails",
+      "cart_action": "ajax",
+      "show_lock_icon": true,
+      "display_tos_checkbox": false,
+      "tos_page": "",
+      "go_to_checkout": true,
+      "display_special_instructions": false,
+      "display_savings": false,
+      "cart_message": "",
+      "show_shipping_calculator": true,
+      "shipping_calculator_default_country": "United States",
+      "show_multiple_currencies": true,
+      "currency_format": "money_format",
+      "supported_currencies": "USD CAD AUD GBP EUR JPY",
+      "default_currency": "CAD",
+      "mailchimp_link": "",
+      "secondary_newsletter_banner": true,
+      "newsletter_popup": false,
+      "newsletter_popup_close": false,
+      "newsletter_popup_mobile": false,
+      "newsletter_popup_form": false,
+      "display_first_name": false,
+      "display_last_name": false,
+      "use_newsletter_border": true,
+      "newsletter_bg": "shopify:\/\/shop_images\/nl-popup.jpg",
+      "image_crop": "none",
+      "newsletter_popup_image_align": "left",
+      "newsletter_popup_title": "Age Verification",
+      "newsletter_popup_text": "<p>You can use this popup as an age gate, to control access to content.&nbsp;<\/p>",
+      "newsletter_popup_text_align": "left",
+      "popup_button1": "Under 21",
+      "popup_button1_link": "",
+      "popup_button1_highlight": false,
+      "popup_button2": "21+ (Enter)",
+      "popup_button2_link": "",
+      "popup_button2_highlight": true,
+      "newsletter_popup_seconds": 12,
+      "newsletter_popup_days": "2",
+      "twitter_link": "https:\/\/twitter.com\/shopify",
+      "facebook_link": "https:\/\/facebook.com\/shopify",
+      "youtube_link": "",
+      "vimeo_link": "",
+      "pinterest_link": "",
+      "tumblr_link": "",
+      "instagram_link": "https:\/\/instagram.com\/shopify",
+      "snapchat_link": "",
+      "houzz_link": "",
+      "linkedin_link": "",
+      "email_link": "",
+      "og_image_fallback": "shopify:\/\/shop_images\/chicago-night-social-share-image.jpg",
+      "favicon": "",
+      "disqus_enabled": false,
+      "disqus_shortname": "",
+      "checkout_header_image": "shopify:\/\/shop_images\/hands-video.jpg",
+      "checkout_logo_image": "shopify:\/\/shop_images\/chicago-logo-wt-peach-2.png",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#49515e",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#202835",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#fcac79",
+      "checkout_button_color": "#fcac79",
+      "checkout_error_color": "#e32c2b"
+    }
+  },
+  "current": {
+    "performance": "ludicrous",
+    "image_loading_style": "blur-up",
+    "custom_scripts": "",
+    "logo_color": "#61559a",
+    "regular_color": "#656565",
+    "headline_color": "#61559a",
+    "headline_footer_text_color": "#656565",
+    "sub_footer_text_color": "#61559a",
+    "sale_color": "#ff3099",
+    "was_price_color": "#656565",
+    "product_hover_text_color": "#ffffff",
+    "promo_text_color": "#ffffff",
+    "shop_home_page_content_text_color": "#656565",
+    "newsletter_popup_color": "#61559a",
+    "newsletter_section_color": "#656565",
+    "collection_filter_color": "#61559a",
+    "top_bar_color": "#656565",
+    "top_bar_color_hover": "#61559a",
+    "nav_color": "#656565",
+    "nav_color_home": "#61559a",
+    "nav_color_hover": "#61559a",
+    "link_color": "#61559a",
+    "link_hover_color": "#61559a",
+    "sidebar_nav_color": "#656565",
+    "sidebar_nav_color_hover": "#61559a",
+    "sub_footer_link_color": "#61559a",
+    "sub_footer_link_color_hover": "#61559a",
+    "btn_color": "#62a044",
+    "btn_hover_color": "#62a044",
+    "btn_text_color": "#ffffff",
+    "button_style": "pill_shaped",
+    "read_more_style": "link",
+    "banner_button_color": "#61559a",
+    "banner_color": "#ffffff",
+    "banner_background_color": "#ffffff",
+    "banner_placeholder_background_color": "#ffffff",
+    "swatch_style": "rounded",
+    "table_styles_enabled": true,
+    "slideshow_arrow_size": "light",
+    "arrow_color": "#e0e0e0",
+    "slideshow_button_style": false,
+    "slideshow_nav_buttons": true,
+    "border_color": "#656565",
+    "headline_border_color": "#656565",
+    "headline_border": "1",
+    "divider_style": "solid",
+    "sub_footer_border_color": "#ffffff",
+    "sale_banner_color": "#ff3099",
+    "new_banner_color": "#62a044",
+    "search_section_color": "#656565",
+    "search_section_bg_color": "#ffffff",
+    "testimonial_color": "#656565",
+    "testimonial_bg_color": "#ffffff",
+    "featured_promotions_color": "#656565",
+    "featured_promotions_color_hover": "#656565",
+    "featured_promotions_background": "#ffffff",
+    "featured_promotions_mobile_background": true,
+    "modal_background_color": "#ffffff",
+    "modal_text_color": "#656565",
+    "shop_bg_color": "#ffffff",
+    "custom_bg": "",
+    "repeat_bg": "no-repeat",
+    "bg_fixed": false,
+    "bg_stretched": false,
+    "top_bar_bg_color": "#ffffff",
+    "top_bar_cart_bg_color": "#ffffff",
+    "minicart_bg_color": "#ffffff",
+    "header_bg_color": "#ffffff",
+    "header_background": true,
+    "transparent_header": false,
+    "promo_bg_color": "#61559a",
+    "shop_home_page_content_bg_color": "#ffffff",
+    "featured_links_background": "#ffffff",
+    "product_hover_bg_color": "#ffffff",
+    "sub_footer_color": "#ffffff",
+    "footer_bg": "",
+    "footer_bg_stretched": false,
+    "newsletter_popup_background_color": "#ffffff",
+    "newsletter_section_background_color": "#ffffff",
+    "password_page_text_color": "#656565",
+    "password_page_background_color": "#ffffff",
+    "logo__font": "roboto_n4",
+    "logo_font_style": "uppercase",
+    "logo_font_size": 20,
+    "top_bar_font_size": 12,
+    "top_bar_letter_spacing": 0,
+    "nav__font": "roboto_n4",
+    "nav_font_style": "none",
+    "nav_font_size": 18,
+    "nav_letter_spacing": 0,
+    "nav_shadow": false,
+    "button_weight": "bold",
+    "button_font_style": "none",
+    "button_font_size": 16,
+    "mega_text_font_size": 14,
+    "mega_text_letter_spacing": 0,
+    "headline__font": "roboto_n4",
+    "headline_font_style": "none",
+    "headline_font_size": 20,
+    "headline_letter_spacing": 0,
+    "slideshow_headline__font": "roboto_n4",
+    "slideshow_headline_font_style": "none",
+    "slideshow_headline_size": 20,
+    "slideshow_headline_letter_spacing": 0,
+    "slideshow_headline_shadow": false,
+    "slideshow_subtitle__font": "roboto_n4",
+    "slideshow_subtitle_font_style": "none",
+    "slideshow_subtitle_size": 16,
+    "slideshow_subtitle_letter_spacing": 0,
+    "slideshow_shadow": false,
+    "regular__font": "roboto_n4",
+    "regular_font_style": "none",
+    "regular_font_size": 14,
+    "footer_logo_font_size": 20,
+    "footer_heading_font_size": 16,
+    "footer_font_size": 16,
+    "mega_menu_1": true,
+    "mega_menu_2": false,
+    "mega_menu_3": false,
+    "mega_menu_4": false,
+    "mega_menu_5": false,
+    "search_option": "everything",
+    "search_pagination_type": "basic_pagination",
+    "enable_autocomplete": true,
+    "search_to_display": 10,
+    "product_form_style": "radio",
+    "show_dynamic_checkout_button": false,
+    "display_product_quantity": false,
+    "limit_quantity": false,
+    "display_inventory_left": false,
+    "inventory_threshold": 10,
+    "notify_me_form": false,
+    "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+    "enable_shopify_review_comments": false,
+    "enable_shopify_collection_badges": false,
+    "display_vendor": false,
+    "collection_swatches": true,
+    "sale_banner_enabled": false,
+    "thumbnail_hover_enabled": false,
+    "mobile_products_per_row": "2",
+    "pagination_type": "basic_pagination",
+    "display_price": true,
+    "sold_out_text": "Sold out",
+    "free_price_text": "Free",
+    "collection_secondary_image": true,
+    "align_height": true,
+    "collection_height": 200,
+    "quick_shop_enabled": false,
+    "quick_shop_style": "inline",
+    "cart_action": "ajax",
+    "show_lock_icon": true,
+    "display_tos_checkbox": false,
+    "tos_page": "",
+    "go_to_checkout": true,
+    "display_special_instructions": true,
+    "display_savings": true,
+    "cart_message": "",
+    "show_shipping_calculator": true,
+    "shipping_calculator_default_country": "United States",
+    "currency_format": "money_format",
+    "show_multiple_currencies": false,
+    "supported_currencies": "USD CAD AUD GBP EUR JPY",
+    "default_currency": "USD",
+    "mailchimp_link": "",
+    "secondary_newsletter_banner": false,
+    "newsletter_popup": false,
+    "newsletter_popup_close": false,
+    "newsletter_popup_mobile": false,
+    "newsletter_popup_form": false,
+    "display_first_name": false,
+    "display_last_name": false,
+    "use_newsletter_border": false,
+    "newsletter_bg": "",
+    "image_crop": "none",
+    "newsletter_popup_image_align": "left",
+    "newsletter_popup_title": "Age verification",
+    "newsletter_popup_text": "<p>You can use this popup as an age gate, to control access to content.<br> <strong><a href=\"https:\/\/help.outofthesandbox.com\/hc\/en-us\/articles\/115014370088\" title=\"https:\/\/help.outofthesandbox.com\/hc\/en-us\/articles\/115014370088\">More details<\/a><\/strong><\/p>",
+    "newsletter_popup_text_align": "center",
+    "popup_button1": "Under 21",
+    "popup_button1_link": "",
+    "popup_button1_highlight": false,
+    "popup_button2": "21+ (Enter)",
+    "popup_button2_link": "",
+    "popup_button2_highlight": true,
+    "newsletter_popup_seconds": 4,
+    "newsletter_popup_days": "0",
+    "twitter_link": "",
+    "facebook_link": "https:\/\/facebook.com\/mybrightbody",
+    "youtube_link": "",
+    "vimeo_link": "",
+    "pinterest_link": "https:\/\/pinterest.com\/mybrightbody",
+    "tumblr_link": "",
+    "instagram_link": "https:\/\/instagram.com\/mybrightbody",
+    "snapchat_link": "",
+    "houzz_link": "",
+    "linkedin_link": "",
+    "email_link": "",
+    "favicon": "shopify:\/\/shop_images\/BB_Favicon_ced3be39-c8b8-462a-818c-a8d3afcebe25.png",
+    "disqus_enabled": false,
+    "disqus_shortname": "",
+    "baby_selectors": "bright-body-baby\nbaby-guarantee\nbaby-refill\n1-for-reproductive-rights\ningredient-glossary\nbaby\nbaby-minis\nbaby-bestsellers\nbaby-bundle-save\nbaby-refills\nbuild-a-baby-bundle\ncustom-mom-baby-bundle\nall-purpose-wonder-balm\nbath-time-bundle\nbooty-barrier-cream\nbulk-booty-barrier-cream\nbulk-conditioner\nbulk-everywhere-lotion\nbulk-head-to-toe-wash\nconditioner\neverywhere-lotion\nhead-to-toe-wash\nsoft-as-a-baby-bundle\nthe-complete-gift-set\nthe-essentials-bundle\njanuary-baby-rewards",
+    "checkout_header_image": "shopify:\/\/shop_images\/banner-faq.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/chicago-logo-2020_white.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#f9f9f9",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#ffffff",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#61559a",
+    "checkout_button_color": "#62a044",
+    "checkout_error_color": "#b66465",
+    "size_chart": "",
+    "product_thumbs": true,
+    "gallery_arrows": true,
+    "activate_zoom": false,
+    "slideshow_speed": 0,
+    "slideshow_animation": "slide",
+    "thumbnail_position": "bottom",
+    "enable_thumbnail_slider": true,
+    "quick_shop_display_vendor": false,
+    "quick_shop_full_description": false,
+    "description_words": 25,
+    "quick_shop_product_description_position": "bottom",
+    "quick_shop_display_savings": true,
+    "show_payment_button": false,
+    "product_images_position": "left",
+    "video_looping": false,
+    "banner_style": "round",
+    "og_image_fallback": "shopify:\/\/shop_images\/chicago-day-social-share-image.jpg",
+    "quick_shop_zoom": true,
+    "quick_shop_gallery_arrows": true,
+    "quick_shop_slideshow_animation": "slide",
+    "quick_shop_product_images_position": "left",
+    "quick_shop_product_thumbs": true,
+    "quick_shop_thumbnail_position": "bottom-thumbnails",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "promo_text": "<p>ORDERS SHIP TUES. + FRI. | ORDERS OVER $85 SHIP FREE<\/p>",
+          "social_icons_header": false,
+          "phone_number": "",
+          "top_bar_menu": "",
+          "master_menu": "master-menu",
+          "show_cart": true,
+          "cart_icon": "bag",
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "logo_display_width": 200,
+          "logo": "shopify:\/\/shop_images\/Bright-Body-Purple_2595bac4-13b9-46fd-b8fa-7ae3c54441f9.png",
+          "logo_baby": "shopify:\/\/shop_images\/Bright-Body-Baby-Purple.png",
+          "logo_mobile": "shopify:\/\/shop_images\/Bright-Body-Purple_135c2242-cdfd-46b5-a9df-ff565d2ff275.png",
+          "main_linklist": "main-primary",
+          "main_linklist_baby": "main-menu-baby",
+          "main_linklist2": "",
+          "vertical_menu": true,
+          "dropdown_click": false,
+          "search_enabled": true,
+          "fixed_header": true,
+          "logo_position": "left",
+          "logo_alignment": "center",
+          "menu_position": "inline",
+          "menu_alignment": "center"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "0efca851-b519-4c30-baf4-87297d569405": {
+            "type": "link_list",
+            "settings": {
+              "menu": "shop",
+              "social_icons_footer": true
+            }
+          },
+          "1582224527679": {
+            "type": "link_list",
+            "settings": {
+              "menu": "information",
+              "social_icons_footer": false
+            }
+          },
+          "1582224537333": {
+            "type": "link_list",
+            "settings": {
+              "menu": "policies",
+              "social_icons_footer": false
+            }
+          },
+          "f902918f-c591-4ff6-ae0c-8d8932021e43": {
+            "type": "link_list",
+            "settings": {
+              "menu": "news",
+              "social_icons_footer": false
+            }
+          },
+          "780414af-b77f-41ce-8aac-8c714f4d18c7": {
+            "type": "link_list",
+            "settings": {
+              "menu": "wholesale",
+              "social_icons_footer": false
+            }
+          }
+        },
+        "block_order": [
+          "0efca851-b519-4c30-baf4-87297d569405",
+          "1582224527679",
+          "1582224537333",
+          "f902918f-c591-4ff6-ae0c-8d8932021e43",
+          "780414af-b77f-41ce-8aac-8c714f4d18c7"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": false,
+          "display_payment_methods": true,
+          "show_locale_selector": false,
+          "show_currency_selector": false
+        }
+      },
+      "1489283389016": {
+        "type": "image-with-text-overlay",
+        "settings": {
+          "wide_display": true,
+          "image": "shopify:\/\/shop_images\/Bright-Body-Clean-Refillable-Beauty.jpg",
+          "pretext": "",
+          "title": "",
+          "subtitle": "",
+          "button1": "Shop Now",
+          "button1_link": "shopify:\/\/collections\/bestsellers",
+          "button1_style": "global-button--banner-highlighted",
+          "button2": "",
+          "button2_link": "",
+          "button2_style": "global-button--banner",
+          "text_position": "center",
+          "text_align": "center",
+          "caption_content_background": "original",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": false,
+          "mobile_text_color": "#61559a",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1573135030425": {
+        "type": "image-text",
+        "blocks": {
+          "1573135030425-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Ayurvedic_Face_Mask_Kit_Application.png",
+              "image_crop": "none",
+              "title": "Choose the Right Skincare for You",
+              "text": "<p>Give your skin exactly what it needs for healthy, vibrant, and resilient skin you&#x27;re proud to show off.<\/p>",
+              "button_label": "Personalize My Skin Care",
+              "link": "https:\/\/mybrightbody.com\/#finder-quiz-3724",
+              "bg_color": "",
+              "text_color": "#61559a"
+            }
+          },
+          "1580891957365": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Hair_Quiz_OOTs.jpg",
+              "image_crop": "none",
+              "title": "Choose The Right Hair Care For You",
+              "text": "<p>Get your hair type, texture, and density exactly what it needs for healthy, lustrous locks.<\/p>",
+              "button_label": "Personalize My Hair Care",
+              "link": "https:\/\/mybrightbody.com\/#finder-quiz-3741",
+              "bg_color": "",
+              "text_color": "#61559a"
+            }
+          }
+        },
+        "block_order": [
+          "1573135030425-0",
+          "1580891957365"
+        ],
+        "settings": {
+          "wide_display": false,
+          "featured_links_per_row": "1",
+          "frontpage_text_align": "left",
+          "frontpage_image_position": "row",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "blocks": {
+          "1580884106889": {
+            "type": "filter",
+            "settings": {
+              "filter_name": "TEXTURE\/FINISH",
+              "filter_tags": "curly hair, straight hair, matte finish, dewy finish",
+              "enable_filter_swatches": false
+            }
+          },
+          "ed1dd400-0b8c-4a06-94cb-1349c4be3611": {
+            "type": "filter",
+            "settings": {
+              "filter_name": "MOISTURE LEVEL",
+              "filter_tags": "dry hair, oily hair, dry skin, oily skin, combination skin",
+              "enable_filter_swatches": false
+            }
+          },
+          "c79f0177-69d3-41c0-8f08-c15afc7d77cf": {
+            "type": "filter",
+            "settings": {
+              "filter_name": "INFLAMMATION CONCERNS",
+              "filter_tags": "acne, rosacea + redness, scars",
+              "enable_filter_swatches": false
+            }
+          },
+          "7badd9f8-a22a-4acd-8ed8-3bf5c80d3284": {
+            "type": "filter",
+            "settings": {
+              "filter_name": "AGING CONCERNS",
+              "filter_tags": "fine lines, dull skin, dark spots",
+              "enable_filter_swatches": false
+            }
+          },
+          "51cecfb1-be0f-4464-9069-0b121d432fbf": {
+            "type": "filter",
+            "settings": {
+              "filter_name": "SPECIAL CONCERNS",
+              "filter_tags": "sensitive skin, color safe, sensitive eyes",
+              "enable_filter_swatches": false
+            }
+          }
+        },
+        "block_order": [
+          "1580884106889",
+          "ed1dd400-0b8c-4a06-94cb-1349c4be3611",
+          "c79f0177-69d3-41c0-8f08-c15afc7d77cf",
+          "7badd9f8-a22a-4acd-8ed8-3bf5c80d3284",
+          "51cecfb1-be0f-4464-9069-0b121d432fbf"
+        ],
+        "settings": {
+          "featured_collection_image": false,
+          "wide_display": true,
+          "mobile_image_crop": "none",
+          "caption_content_background": "original",
+          "display_collection_title": true,
+          "collection_breadcrumb": true,
+          "collection_tags": false,
+          "collection_sort": false,
+          "products_per_row": 3,
+          "pagination_limit": 16,
+          "toggle": false
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+          "wide_display": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "newsletter_title": "",
+          "newsletter_text": "<p>Get a free mini Hydrating Gel with your 1st purchase of $50 when you join our VIP List.<\/p>",
+          "newsletter_section_text_align": "center",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "image": "",
+          "search_breadcrumb": true,
+          "search_term": "Search...",
+          "products_per_row": 3,
+          "pagination_limit": 48,
+          "blog_author": false,
+          "read_more_link": true,
+          "blog_date": true,
+          "toggle": false
+        }
+      },
+      "mega-menu-1": {
+        "type": "mega-menu-1",
+        "settings": {
+          "parent": "products"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_breadcrumb": true,
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "product_thumbs": true,
+          "gallery_arrows": true,
+          "enable_product_lightbox": false,
+          "activate_zoom": false,
+          "slideshow_speed": 0,
+          "slideshow_animation": "fade",
+          "thumbnail_position": "bottom",
+          "enable_thumbnail_slider": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_style": "grid",
+          "product_recommendations_heading": "Discover more products",
+          "products_per_row": 3,
+          "recommended_products_limit": 3
+        }
+      },
+      "page-details-template": {
+        "type": "page-details-template",
+        "blocks": {
+          "1580681859272": {
+            "type": "image_gallery",
+            "settings": {
+              "wide_display": true,
+              "detail_image_1": "shopify:\/\/shop_images\/Ayurvedic-Facial-Oils-Bright-Body.jpg",
+              "detail_image_2": "shopify:\/\/shop_images\/Ayurvedic-Body-Oil-Organic-Body-Oil-Bright-Body.jpg",
+              "detail_image_3": "shopify:\/\/shop_images\/Organic-Products-for-Curly-Hair-Bright-Body.jpg"
+            }
+          },
+          "0ffeeb63-43da-44b9-be41-423d75d7e3f0": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "You'll NEVER find any of the following in our goodies...",
+              "content": "<p>Parabens | Phthalates | Petrochemicals | PEGs | Silicones | Sulfates | DEAs + TEAs | Ethanol + Related Alcohols<br\/>Propylene Glycol | Phenoxyethanol | Synthetic Fragrance | Dyes + Color Additives<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "text_size": "featured_text",
+              "text_alignment": "center"
+            }
+          },
+          "1580680888954": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify:\/\/shop_images\/Bright-Body-Ingredients.jpg",
+              "image_crop": "none",
+              "title": "The Highest Standards",
+              "text": "<p>Every single ingredient we use has the <strong>safest rating from the Environmental Working Group<\/strong> so you know you're doing right by your body and the environment.<br\/><br\/><em>Note<\/em>: while we would love to be EWG Verified, that requires a significant investment that we can't afford as a small, indie brand. You can, however, look up each of our ingredients on the EWG's <a href=\"https:\/\/www.ewg.org\/skindeep\/\" title=\"https:\/\/www.ewg.org\/skindeep\/\">Skin Deep Database<\/a>.<strong><br\/><br\/>We love to geek out over cosmetic chemistry.<\/strong> If you have a question about the purpose, benefits, and\/or safety rating of any ingredient, don't hesitate to <a href=\"\/pages\/contact\" title=\"Contact Us\">send us a note<\/a>.<\/p>",
+              "link": "shopify:\/\/collections\/bestsellers",
+              "button_label": "Shop Bestsellers"
+            }
+          },
+          "ddf76d22-e4bc-4644-ab0b-067d783a0e32": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row-reverse",
+              "image": "shopify:\/\/shop_images\/Nontoxic_88be3e03-7fed-4b5c-b306-0e044400aa78.png",
+              "image_crop": "none",
+              "title": "No Bad Science or Fear Mongering",
+              "text": "<p>We know that everything is a chemical. We know that pronounceability is a piss poor proxy for safety. We know that synthetic ingredients aren't inherently \"bad\" and natural ingredients aren't always \"good.\"<br\/><br\/>We formulate with modern cosmetic chemistry and ancient Ayurvedic herbalism to make safe and effective plant-based products that work. And we simply don't believe in fear mongering as a tool to sell our products.<\/p>",
+              "link": "shopify:\/\/collections\/all",
+              "button_label": "Shop All"
+            }
+          },
+          "1581058529733": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 0,
+              "divider_border": false
+            }
+          },
+          "6aec866a-72b2-4408-832b-6c5c0af2b631": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "Have questions about Bright Body Baby?",
+              "content": "<p>Rest easy knowing that our ingredient standards are the same across both Bright Body and Bright Body Baby. You can also find a full glossary of each + every ingredient used in our baby products <a href=\"https:\/\/brightbodybaby.com\/pages\/ingredients\" title=\"https:\/\/brightbodybaby.com\/pages\/ingredients\">here<\/a>.<\/p>",
+              "button_label": "",
+              "button_link": "",
+              "text_size": "featured_text",
+              "text_alignment": "center"
+            }
+          },
+          "4e928ed5-99c5-443d-b7eb-b4b684e7e77c": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          }
+        },
+        "block_order": [
+          "1580681859272",
+          "0ffeeb63-43da-44b9-be41-423d75d7e3f0",
+          "1580680888954",
+          "ddf76d22-e4bc-4644-ab0b-067d783a0e32",
+          "1581058529733",
+          "6aec866a-72b2-4408-832b-6c5c0af2b631",
+          "4e928ed5-99c5-443d-b7eb-b4b684e7e77c"
+        ],
+        "settings": {
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "collection_breadcrumb": true,
+          "display_collection_title": false,
+          "align_height": false,
+          "collection_height": 200,
+          "collections_per_row": 3,
+          "pagination_limit": 18,
+          "toggle": false
+        }
+      },
+      "page-faq-template": {
+        "type": "page-faq-template",
+        "blocks": {
+          "5f6a3910-971c-45c4-96ba-5d8f02d752b0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Our Products"
+            }
+          },
+          "f9700ff0-4ff6-462a-af13-9f54d5e8654e": {
+            "type": "Content",
+            "settings": {
+              "title": "Are your products really \"clean\" and \"nontoxic\"?",
+              "subtitle": "<p>Every one of the ingredients in Bright Body products has the Environmental Working Group&#x27;s safest rating. Don&#x27;t believe us? <a href=\"https:\/\/www.ewg.org\/skindeep\/\" title=\"https:\/\/www.ewg.org\/skindeep\/\">Look them up<\/a> for yourself!<\/p><p>We vetted our partner products, including makeup and sunscreen, with the same scrutiny. To learn more about our ingredient standards, click <a href=\"https:\/\/mybrightbody.com\/pages\/no-go-list\" title=\"https:\/\/mybrightbody.com\/pages\/no-go-list\">here<\/a>.<\/p>"
+            }
+          },
+          "02dcf70f-5d77-4b3c-8a91-178f43ee4a7e": {
+            "type": "Content",
+            "settings": {
+              "title": "Are your products cruelty-free and vegan?",
+              "subtitle": "<p>Yes and yes. We have never tested our products on animals and we never will. Bright Body products are 100% vegan.<\/p><p>The only products we stock that are not vegan are:<\/p><p>&gt; Naked Goat Soap Co. soaps and lip products<\/p><p>&gt; Laura&#x27;s Botanicals lip balms<\/p><p>&gt; The Manuka Honey Activator in our Custom Ayurvedic Face Mask Kits<\/p>"
+            }
+          },
+          "page-faq-template-1": {
+            "type": "Content",
+            "settings": {
+              "title": "What is your refill program? How does it work?",
+              "subtitle": "<p>We package our products in glass, aluminum, and cardboard containers. Products in glass &amp; aluminum are eligible for our refill program. Products in kraft cardboard are recyclable and compostable after removing the label. To learn more, read <a href=\"https:\/\/mybrightbody.com\/pages\/eco-friendly-refill-program\" title=\"https:\/\/mybrightbody.com\/pages\/eco-friendly-refill-program\">here<\/a>.<\/p>"
+            }
+          },
+          "8ecc6717-1402-4aaf-96fd-60d81817ef8a": {
+            "type": "Content",
+            "settings": {
+              "title": "How do you source your ingredients?",
+              "subtitle": "<p>Each and every one of our suppliers was researched &amp;vetted for ingredient purity, quality, and sound environmental practices. We purchase our raw materials from American companies only and use as many organic and fair trade ingredients as possible.<\/p>"
+            }
+          },
+          "d07e4ca9-dc4f-4bcf-a3ab-ff3a330c97fc": {
+            "type": "Content",
+            "settings": {
+              "title": "Are your hair products color-safe?",
+              "subtitle": "<p>Yes. Since Bright Body products are synthetic sulfate-free and pH balanced, they are safe for color-treated hair.<\/p>"
+            }
+          },
+          "aa4eef30-9038-42d8-9c4b-4dfb1caf6dc2": {
+            "type": "Content",
+            "settings": {
+              "title": "What is the shelf life of your products? How can I keep them fresh?",
+              "subtitle": "<p>Proper preservation is of the utmost importance to us atBright Body, and we only use naturally-derived, organic acid preservatives with the Environmental Working Group&#x27;s safest rating. Stored properly, <strong>Bright Body products will last 9-12 months once opened<\/strong>.<\/p><p>To ensure the best shelf life:<br\/><br\/>&gt; Store out of direct sunlight Store at room temperature<br\/><br\/>&gt; Do not introduce water into your containers<\/p><p>&gt; For products packaged in jars, wash your hands before portioning product<\/p>"
+            }
+          },
+          "54f45a4e-3fa5-420f-8cb5-692806881e27": {
+            "type": "Content",
+            "settings": {
+              "title": "Are your products gluten-free?",
+              "subtitle": "<p>We use Bob’s Red Mill Organic Oats in several of our products -these oats are produced in a dedicated gluten-free facility and tested in their laboratory for the absence of gluten. However, we do not make our products in a certified gluten-free facility.<\/p><p>Our <a href=\"https:\/\/mybrightbody.com\/collections\/face-treat\/products\/clear-skin-potion\" title=\"https:\/\/mybrightbody.com\/collections\/face-treat\/products\/clear-skin-potion\">Clear Skin Potion<\/a> is the only product containing any wheat derivatives -  it features azelaic acid, an ingredient derived from wheat, rye, and barley, and should not be used if you live with Celiac Disease. <\/p>"
+            }
+          },
+          "page-faq-template-4": {
+            "type": "heading",
+            "settings": {
+              "heading": "Shipping & Pickup"
+            }
+          },
+          "page-faq-template-6": {
+            "type": "Content",
+            "settings": {
+              "title": "How does local pickup work?",
+              "subtitle": "<p>We are happy to offer local pickup at our shop located at3319 W Cary Street, Richmond, VA 23221.<\/p><p>To place an order for local pick up, simply go through the online shopping process as normal, and at checkout select &quot;store pickup&quot; under &quot;delivery options.&quot;<\/p><p><strong>Please wait until you receive an email notification that your order is ready <\/strong>before coming to pickup your product.<\/p><p><strong>Watch the video linked in the pickup notification for instructions on where\/when\/how to pickup your order<\/strong>.<\/p><p>Pickup hours are:<\/p><p>Tuesday through Friday 11 to 6 Saturday 11 to 2<\/p>"
+            }
+          },
+          "page-faq-template-5": {
+            "type": "Content",
+            "settings": {
+              "title": "How long will it take to receive my order?",
+              "subtitle": "<p>Since we make all Bright Body products by hand in small batches, we are currently allowing up to a 4 business day processing\/lead time before products will be shipped to you. If for some reason we experience a delay in getting your order to you in that time frame, we will send an email notification.<\/p><p>Once the products ship, the shipping method you chose will determine how quickly packages drive to you, and you can keep track via your tracking number. All packages are shipped from Richmond, VA.<\/p><p>Once packages are shipped, we have access to the same tracking information as our customers.*please note: since the start of the COVID pandemic, shipping times are delayed across all carriers.<\/p>"
+            }
+          },
+          "page-faq-template-7": {
+            "type": "Content",
+            "settings": {
+              "title": "Why do you ship some products on ice? Do I have to keep them cold?",
+              "subtitle": "<p>We ship our meltable products in insulated bubble mailers on ice packs in order to keep them stable for shipping during warmer months.Because many of our products are made of whole, organic butters and oils, they are subject to melting during the shipping process. Once they arrive to you, you do NOT need to keep these products in the fridge - room temperature will do just fine! <\/p>"
+            }
+          },
+          "page-faq-template-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "Return & Exchange Policies"
+            }
+          },
+          "page-faq-template-3": {
+            "type": "Content",
+            "settings": {
+              "title": "What is the Try It + Love It Guarantee?",
+              "subtitle": "<p>We&#x27;re so confident that you&#x27;ll love Bright Body products that we offer a <strong>Try It + Love It Guarantee for our mini sized products<\/strong>.<\/p><p>Try out any product in a mini size and if you don&#x27;t love it in 30 days, <a href=\"https:\/\/mybrightbody.com\/pages\/contact\" title=\"https:\/\/mybrightbody.com\/pages\/contact\">contact us <\/a>and you&#x27;ll get your money back. If you&#x27;re not happy with a full-sized Bright Body product, we offer store credit and exchanges.<\/p><p><span style=\"text-decoration:underline\">Terms and Conditions<\/span><\/p><p>&gt; Products must be purchased directly from mybrightbody.com, we do not accept returns from our retail partners.<\/p><p>&gt; Original shipping charges are non-refundable. If you&#x27;re returning a mini size through our Try it + Love it Guarantee, you do not need to return your product for a refund.<\/p><p>&gt; If you would like to exchange a product (mini or otherwise), return shipping charges are the responsibility of the customer. Custom products and items marked final sale are non-returnable and non-refundable.<\/p>"
+            }
+          },
+          "page-faq-template-2": {
+            "type": "Content",
+            "settings": {
+              "title": "What is your return & exchange policy?",
+              "subtitle": "<p>For our full return + refund policy, click <a href=\"https:\/\/mybrightbody.com\/pages\/return-policy\" title=\"https:\/\/mybrightbody.com\/pages\/return-policy\">here<\/a>.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "5f6a3910-971c-45c4-96ba-5d8f02d752b0",
+          "f9700ff0-4ff6-462a-af13-9f54d5e8654e",
+          "02dcf70f-5d77-4b3c-8a91-178f43ee4a7e",
+          "page-faq-template-1",
+          "8ecc6717-1402-4aaf-96fd-60d81817ef8a",
+          "d07e4ca9-dc4f-4bcf-a3ab-ff3a330c97fc",
+          "aa4eef30-9038-42d8-9c4b-4dfb1caf6dc2",
+          "54f45a4e-3fa5-420f-8cb5-692806881e27",
+          "page-faq-template-4",
+          "page-faq-template-6",
+          "page-faq-template-5",
+          "page-faq-template-7",
+          "page-faq-template-0",
+          "page-faq-template-3",
+          "page-faq-template-2"
+        ],
+        "settings": {
+          "wide_display": true,
+          "show_banner": false,
+          "mobile_image_crop": "none",
+          "caption_content_background": "original",
+          "pretext": "",
+          "title": "Frequently Asked Questions",
+          "subtitle": "",
+          "text_position": "left",
+          "text_align": "left",
+          "button1": "",
+          "button1_link": "",
+          "button1_style": "global-button--banner",
+          "button2": "",
+          "button2_link": "",
+          "button2_style": "global-button--banner"
+        }
+      },
+      "1580913831658": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 0,
+          "divider_border": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "wide_display": true,
+          "subtitle": "",
+          "blog_posts_per_row": 2,
+          "blog_posts_per_page": 6,
+          "blog_tags": false,
+          "blog_author": false,
+          "read_time": true,
+          "blog_date": true,
+          "blog_comment_count": false,
+          "read_more_link": false,
+          "excerpt_display": "full_excerpt",
+          "toggle": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "featured_image": "none",
+          "wide_display": true,
+          "blog_breadcrumb": true,
+          "blog_pagination": true,
+          "blog_tags": false,
+          "blog_byline": false,
+          "read_time": true,
+          "blog_date": true,
+          "blog_author": false,
+          "display_social_buttons": true,
+          "blog_comment_count": false,
+          "blog_additional_posts": false,
+          "read_more_link": true,
+          "toggle": false
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "wide_display": true,
+          "image": "",
+          "contact_text": "",
+          "show_map": false,
+          "map_address": "",
+          "map_height": 400,
+          "zoom_level": 16,
+          "map_image": "",
+          "api_key": "",
+          "show_pin": true,
+          "map_style": "default"
+        }
+      },
+      "map": {
+        "type": "map",
+        "settings": {
+          "map_image": "",
+          "map_address": "Chicago",
+          "map_height": 400,
+          "zoom_level": 10,
+          "api_key": "",
+          "show_pin": true,
+          "map_style": "default"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "blocks": {
+          "1581060453419": {
+            "type": "featured_collection",
+            "settings": {
+              "title": "You may also be interested in",
+              "collection_description": false,
+              "collection": "bestsellers",
+              "collection_style": "slider",
+              "products_per": 4,
+              "products_limit": 8
+            }
+          }
+        },
+        "block_order": [
+          "1581060453419"
+        ],
+        "settings": {
+          "display_special_instructions": true,
+          "display_savings": true,
+          "cart_message": "<p><strong>Have empty pouches to return? Is this a gift? Tell us HERE the order notes!<\/strong><\/p>"
+        }
+      },
+      "product-details-template": {
+        "type": "product-details-template",
+        "blocks": {
+          "1581044001669": {
+            "type": "image_with_text",
+            "settings": {
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "right",
+              "image": "shopify:\/\/shop_images\/product-details-1.jpg",
+              "image_crop": "center",
+              "title": "Benefits",
+              "text": "<p>Uplight &amp; ease your mind. Our CBD infused teas reduce anxiety, stress and help your feel calm &ndash; without any&nbsp;psychoactive effects.<\/p>\n<p><\/p>\n<p><strong>DOSAGE<br><\/strong>Scoop 1\/2 to 1 tsp and add it to 2 cups of hot water.&nbsp;<\/p>\n<p><strong>INGREDIENTS<\/strong><\/p>\n<p>&bull; 10mg natural hemp extract&nbsp;🌿<br>&bull; Blend of lavender, strawberry and peppermint<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "1581043921765": {
+            "type": "product_reviews",
+            "settings": {
+            }
+          },
+          "1581045545854": {
+            "type": "featured_video",
+            "settings": {
+              "wide_display": false,
+              "aspect_ratio": "16:9",
+              "autoplay": false,
+              "autoloop": true,
+              "mute_video": false,
+              "show_controls": true,
+              "video_dark_overlay": false,
+              "iframe_video": "https:\/\/www.youtube.com\/watch?v=k9Zt0eKP8Rw",
+              "html5_video": "",
+              "image": "shopify:\/\/shop_images\/video-drink-day.jpg",
+              "display_text_over_video": false,
+              "button1_label": "Play video",
+              "button1_link": "",
+              "button2_label": "",
+              "button2_link": "",
+              "text_position": "center",
+              "text_align": "center",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "1581044001669",
+          "1581043921765",
+          "1581045545854"
+        ],
+        "settings": {
+          "product_thumbs": true,
+          "gallery_arrows": true,
+          "enable_product_lightbox": true,
+          "activate_zoom": false,
+          "slideshow_speed": 0,
+          "slideshow_animation": "slide",
+          "thumbnail_position": "bottom-slider",
+          "enable_thumbnail_slider": true,
+          "display_vendor": false,
+          "product_breadcrumb": false,
+          "display_sku": false,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": false,
+          "product_description_position": "top",
+          "display_savings": true,
+          "show_payment_button": true,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "enable_shopify_product_badges": false,
+          "enable_reviews_in_description": false
+        }
+      },
+      "password-template": {
+        "type": "password-template",
+        "settings": {
+          "custom_logo": "shopify:\/\/shop_images\/chicago-logo-2020_white.png",
+          "logo_width": 150,
+          "custom_pagework_page_bg": true,
+          "password-page-background": "shopify:\/\/shop_images\/banner-password.jpg",
+          "pagework_page_bg_stretched": true,
+          "password_message": "",
+          "show_newsletter": true,
+          "password_text": "",
+          "social_media": true
+        }
+      },
+      "160763501680e76007": {
+        "type": "text-columns-with-images",
+        "blocks": {
+          "16076361094ba038d5-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Nontoxic_61dc030f-a977-4e74-9bdf-cf24f09221cd.png",
+              "title": "Nontoxic",
+              "heading_size": "large_text",
+              "text": "<p>Made with only EWG safest rated ingredients. No bad science.<\/p>",
+              "button_label": "Learn More",
+              "button_link": "shopify:\/\/pages\/no-go-list",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          },
+          "16076361094ba038d5-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Refillable.png",
+              "title": "Refillable",
+              "heading_size": "large_text",
+              "text": "<p>Zero waste refill pouch system. Save the planet + your wallet.<\/p>",
+              "button_label": "Learn More",
+              "button_link": "shopify:\/\/pages\/eco-friendly-refill-program",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          },
+          "7ce7a649-d206-4b7b-846d-2096ba8887bf": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Guaranteed_b5847779-a060-4684-ad84-88f1a872f138.png",
+              "title": "Guaranteed",
+              "heading_size": "large_text",
+              "text": "<p>We guarantee you'll love our mini sizes, or your money back.<\/p>",
+              "button_label": "Learn More",
+              "button_link": "shopify:\/\/pages\/try-it-love-it-guarantee",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          },
+          "010e7dd9-f20f-40ae-a395-065690a3a825": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Bunny.png",
+              "title": "Cruelty Free",
+              "heading_size": "large_text",
+              "text": "<p>Vegan ingredients + no testing on animals, ever. <\/p>",
+              "button_label": "Learn More",
+              "button_link": "shopify:\/\/pages\/cruelty-free-vegan",
+              "align_text": "center",
+              "border_style": "none"
+            }
+          }
+        },
+        "block_order": [
+          "16076361094ba038d5-0",
+          "16076361094ba038d5-1",
+          "7ce7a649-d206-4b7b-846d-2096ba8887bf",
+          "010e7dd9-f20f-40ae-a395-065690a3a825"
+        ],
+        "settings": {
+          "title": "",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "16076370430025dbcf": {
+        "type": "featured-text",
+        "settings": {
+          "title": "For Science-Minded & Eco-Conscious Clean Beauty Lovers",
+          "content": "<p>Our mission is to <strong>help science-minded and eco-conscious clean beauty lovers find proven products they love<\/strong> from a pro-science brand that gets it.<\/p><p>You know how frustrating it is when you spend hours researching a clean beauty product only to realize it has hidden crappy ingredients. Or worse, you find out the brand is using bad science and fear mongering to mediocre products.<\/p><p>Then there&#x27;s the packaging - plastic containers really miss the point of clean beauty, no matter if it&#x27;s &quot;recyclable&quot; or even &quot;recycled.&quot; And let&#x27;s just say the performance of most eco friendly beauty products needs work.<\/p><p><strong>If you&#x27;re ready to throw in the towel finding clean beauty you love thanks to bad science, fear mongering, or colossal plastic waste, we hear you. And we want you to know that there&#x27;s a better way.<\/strong><\/p><p>Bright Body will delight you with proven clean beauty you love. We make <strong>high-performing, nontoxic, and<\/strong> <strong>scientifically sound zero waste products <\/strong>that work better than any other clean or eco friendly products you&#x27;ve tried.<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "featured_text",
+          "text_alignment": "align_left",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1607638457ffa1a23e": {
+        "type": "custom-html",
+        "settings": {
+          "custom_html": "<div id=\"stamped-reviews-widget\" data-widget-type=\"carousel\" data-title=\"Success Stories\" data-style-color-title=\"#656565\" data-style-color-star=\"#e8d98b\" data-style-color-text=\"#656565\" data-style-color-link=\"#61599a\" data-product-brand=\"Bright Body\" data-limit-words=\"50\" data-min-rating=\"4\" data-random=\"? string:Success Stories ?\"><\/div>",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "160763871784141f90": {
+        "type": "image-with-text-overlay",
+        "settings": {
+          "wide_display": true,
+          "image": "shopify:\/\/shop_images\/Nontoxic-Ingredients.jpg",
+          "pretext": "",
+          "title": "",
+          "subtitle": "",
+          "button1": "",
+          "button1_link": "shopify:\/\/pages\/no-go-list",
+          "button1_style": "global-button--banner",
+          "button2": "",
+          "button2_link": "",
+          "button2_style": "global-button--banner",
+          "text_position": "center",
+          "text_align": "center",
+          "caption_content_background": "original",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": true,
+          "mobile_text_color": "rgba(0,0,0,0)",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "160763973450b2a405": {
+        "type": "collection-list",
+        "blocks": {
+          "160763973450b2a405-0": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "face",
+              "image": "shopify:\/\/shop_images\/1_1cd5c767-74d3-4879-8df5-82c3e1154864.jpg"
+            }
+          },
+          "160763973450b2a405-1": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "hair",
+              "image": "shopify:\/\/shop_images\/2_dfd1e592-f252-4033-88cc-3e370a5bf12b.jpg"
+            }
+          },
+          "160763973450b2a405-2": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "body",
+              "image": "shopify:\/\/shop_images\/3_5242ac05-9e58-42f8-918b-e8ad805e12c6.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "160763973450b2a405-0",
+          "160763973450b2a405-1",
+          "160763973450b2a405-2"
+        ],
+        "settings": {
+          "title": "Shop Our Collections",
+          "align_height": false,
+          "collection_height": 210,
+          "frontpage_collections_per_row": 3,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "160763994853bbb504": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Shop Bestsellers",
+          "collection_description": false,
+          "collection": "bestsellers",
+          "collection_style": "grid",
+          "products_per": 5,
+          "products_limit": 5,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product-sidebar": {
+        "type": "product-sidebar",
+        "settings": {
+          "toggle": false
+        }
+      },
+      "1607649809e3713b09": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 5,
+          "divider_border": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "page-details-2-template": {
+        "type": "page-details-2-template",
+        "blocks": {
+          "b92936b6-b013-4398-a50f-03def458c5af": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "shopify:\/\/shop_images\/Refills_41b67840-da0f-4a18-b626-5fd36f364b03.jpg",
+              "pretext": "",
+              "title": "",
+              "subtitle": "",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "left",
+              "text_align": "left",
+              "button1": "",
+              "button1_link": "shopify:\/\/collections\/refills",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": false,
+              "mobile_text_color": ""
+            }
+          },
+          "659ca8ea-16e6-42d4-9c96-7cf66864420a": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 0,
+              "divider_border": false
+            }
+          },
+          "256f3e40-358c-479a-b992-295d4f395810": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify:\/\/shop_images\/1_609e8423-a521-4da9-9543-9485368021d5.jpg",
+              "image_crop": "none",
+              "title": "Step 1",
+              "text": "<p>For your first purchase, order your goodies in full packaging (glass jar or aluminum bottle).<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "76de2ad4-6e97-4b1f-a6da-3230ceee3eaa": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row-reverse",
+              "image": "shopify:\/\/shop_images\/2_5a6792af-af4b-41c4-9c27-bd29a8031453.jpg",
+              "image_crop": "none",
+              "title": "Step 2",
+              "text": "<p>When you're ready to buy again, order an aluminum refill pouch. It saves you a couple bucks and allows you to reuse your original packaging.<br\/><br\/>You can order refill pouches from the same product page as original packaging - no separate listings involved.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "87d94f05-a38a-4184-8cef-9a1e4437c223": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify:\/\/shop_images\/3_3a274155-8481-489c-a841-edd00cf98854.jpg",
+              "image_crop": "none",
+              "title": "Step 3",
+              "text": "<p>When your pouch arrives, empty its contents into your (cleaned & dried) original packaging.<br\/><br\/>Hang onto your empty pouches.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "55a83a92-eaa3-44e4-8fa8-e375b7b51bc2": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row-reverse",
+              "image": "shopify:\/\/shop_images\/4_2ea0fa44-5eb7-4540-b9a0-2d54753f0470.jpg",
+              "image_crop": "none",
+              "title": "Step 4",
+              "text": "<p>When you have 3 (or more) empty pouches on hand, let us know via checkout note on your next order.<br\/><br\/>We will include a kraft mailer and prepaid shipping label in your package.<br\/><br\/>Place your empty pouches inside the mailer and pop it in your mailbox!<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "75a54125-b319-41e6-b1c4-c02b89090f92": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify:\/\/shop_images\/5.jpg",
+              "image_crop": "none",
+              "title": "Step 5",
+              "text": "<p>We receive your empty pouches and pop them in our Terracycle box just for this specific type of packaging.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "073ba1fb-c312-4f3b-a957-22b68178345b": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": true,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify:\/\/shop_images\/Amanda_Arnold_Photography-Bright_Body-04801.jpg",
+              "image_crop": "none",
+              "title": "Shop Refills",
+              "text": "<p>All our products are available in our closed loop refill pouch system.<\/p>",
+              "link": "shopify:\/\/collections\/all",
+              "button_label": "Shop All Refills"
+            }
+          },
+          "ab57bc03-f2ea-4318-b464-3a4ee14210e6": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 0,
+              "divider_border": false
+            }
+          },
+          "9c0fe31a-3a87-4303-a054-f670771633c4": {
+            "type": "featured_video",
+            "settings": {
+              "wide_display": false,
+              "aspect_ratio": "4:3",
+              "autoplay": false,
+              "autoloop": false,
+              "mute_video": false,
+              "show_controls": true,
+              "video_dark_overlay": false,
+              "iframe_video": "https:\/\/youtu.be\/06MIK6Pzx-k",
+              "html5_video": "",
+              "display_text_over_video": false,
+              "preheading": "",
+              "heading": "",
+              "subheading": "",
+              "text_position": "center",
+              "text_align": "center",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "button1_label": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2_label": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "47183bc0-f73a-4013-aed7-76ec74aca085": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 0,
+              "divider_border": false
+            }
+          },
+          "page-details-2-template-19": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 0,
+              "divider_border": false
+            }
+          },
+          "e497a21a-3bf0-4ffc-9443-f4d6f63f6e34": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "Terms & Conditions",
+              "content": "<p>Effective February 2020 we do not offer rebates on empty containers.<br\/><br\/>Effective May 2021 we do not accept empty containers.<br\/><br\/>Effective December 2021 we offer return shipping for customers with 3+ empty pouches.<\/p>",
+              "text_size": "regular_text",
+              "text_alignment": "align_left",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "43b99180-d466-4bc7-bacd-33b533e7eb6d": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 10,
+              "divider_border": false
+            }
+          }
+        },
+        "block_order": [
+          "b92936b6-b013-4398-a50f-03def458c5af",
+          "659ca8ea-16e6-42d4-9c96-7cf66864420a",
+          "256f3e40-358c-479a-b992-295d4f395810",
+          "76de2ad4-6e97-4b1f-a6da-3230ceee3eaa",
+          "87d94f05-a38a-4184-8cef-9a1e4437c223",
+          "55a83a92-eaa3-44e4-8fa8-e375b7b51bc2",
+          "75a54125-b319-41e6-b1c4-c02b89090f92",
+          "073ba1fb-c312-4f3b-a957-22b68178345b",
+          "ab57bc03-f2ea-4318-b464-3a4ee14210e6",
+          "9c0fe31a-3a87-4303-a054-f670771633c4",
+          "47183bc0-f73a-4013-aed7-76ec74aca085",
+          "page-details-2-template-19",
+          "e497a21a-3bf0-4ffc-9443-f4d6f63f6e34",
+          "43b99180-d466-4bc7-bacd-33b533e7eb6d"
+        ],
+        "settings": {
+        }
+      },
+      "page-details-3-template": {
+        "type": "page-details-3-template",
+        "blocks": {
+          "page-details-3-template-2": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "Find Bright Body At",
+              "content": "<p>We are proud to have Bright Body products available at the following retailers. Interested in becoming a Bright Body stockist? Complete our wholesale application <a href=\"\/pages\/prospective-stockists\" title=\"Wholesale\">here<\/a>.<\/p>",
+              "text_size": "featured_text",
+              "text_alignment": "center",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "page-details-3-template-3": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 10,
+              "divider_border": false
+            }
+          },
+          "217b14a6-d3ba-4e2b-b214-c391b15caef4": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "",
+              "content": "<p><strong>California<\/strong><\/p><p><strong>Ethos Santa Cruz<br\/><\/strong>101 Capitola Avenue<br\/>Capitola, CA 95010<br\/>(831) 854-2490<\/p><p>59 N. Santa Cruz Avenue<br\/>Los Gatos, CA 95030<br\/>(408) 827-4684<\/p><p><strong>Connecticut<\/strong><\/p><p><strong>Reboot Eco<br\/><\/strong>131 River Rd<br\/>Middletown, CT 06457<br\/>(860) 894-2381<\/p><p>11 Main Street <br\/>Chester, CT 06412<br\/>(860) 322-3366<\/p><p><strong>FLORIDA<\/strong><\/p><p><strong>FL Keys Refillery<\/strong><br\/>100410 Overseas Hwy Unit 305<br\/>Key Largo, FL 33037<br\/>(305) 741-7885<br\/>sunnyturtlecreations@gmail.com<\/p><p><strong>Oh Eco Orlando<\/strong><br\/>1805 Winter Park Rd<br\/>Orlando, FL 32803<br\/>(321) 209-0427<br\/>hello@oh-eco.com<\/p><p><strong>One World Zero Waste <\/strong><br\/>354 S Cypress Drive #1<br\/>Tequesta, FL 33469<br\/>oneworldzerowaste@gmail.com<br\/><\/p><p><strong>HAWAII<\/strong><\/p><p><strong>Protea Zero Waste<\/strong><br\/>35 Kainehe Street, Unit 102<br\/>Kailua, HI 96734<br\/>(808) 744-0184<br\/>info@proteazerowaste.com<\/p><p><strong>Indiana<\/strong><\/p><p><strong>Meli Market<\/strong><br\/>1117 16th Street <br\/>Columbus, Indiana 47201<br\/>(812) 370-0202<br\/><\/p><p><strong>MARYLAND<br\/><br\/>Fullfillery<br\/><\/strong>7006 Carroll Avenue<br\/>Takoma Park, MD 20912<br\/>(240) 945-6047<br\/>fullfilleryshop@gmail.com<\/p><p><strong><br\/>MASSACHUSETTS<br\/><br\/>Center Goods<br\/><\/strong>30 Waltham Street<br\/>Lexington, MA 02421<br\/>(781) 816-5022<br\/>hello@center-goods.com<\/p><p><strong><br\/>Cleenland<br\/><\/strong>89A Norfolk Street<br\/>Cambridge, MA 02139<br\/>(857) 228-4595<br\/>wassup@cleenland.com<\/p><p><strong>Fulfilled Goods<br\/><\/strong>612 Washington Street<br\/>Newtonville, MA 02458<br\/>(617) 202-3635<br\/>hello@fulfilledgoods.com<br\/><br\/><strong>Green House Goods<br\/><\/strong>5 Water Street<br\/>Newburyport, MA 01950<br\/>(978) 417-1126<br\/>greenhousenbpt@gmail.com<\/p><p><strong>Unpacked Living<br\/><\/strong>156 Cabot St<br\/>Beverly, MA 01915<br\/>(978) 624-5213<br\/>contact@unpackedliving.com<\/p><p>66 Maple Street<br\/>Danvers, MA 01915<br\/>(978) 836-3721<\/p><p><strong>YES! Your Eco Source<br\/><\/strong>212A Massachusetts Ave<br\/>Arlington, MA 02474<br\/>(781) 859-5771<br\/>yesplasticfree@gmail.com<\/p><p><strong>MICHIGAN<\/strong><\/p><p><strong>BYOC Co<br\/><\/strong>255 E Liberty St # 215<br\/>Ann Arbor, MI 48104<br\/>(734) 492-3933<\/p><p>550 Forest Ave Suite 4<br\/>Plymouth, MI 48170<br\/>(734) 927-4026<\/p><p><strong>The Refillery Traverse City<br\/><\/strong>800 Cottageview Drive, Suite 10<br\/>Traverse City, MI 49684<br\/>eco@refillerytc.com<br\/><br\/><strong>NEVADA<\/strong><\/p><p><strong>Replenish Reno<\/strong><br\/>50 S Virginia Street, Suite 3<br\/>Reno, NV 89501<br\/>replenish.reno@gmail.com<br\/>(775) 384-1825<strong><br\/><br\/>NEW HAMPSHIRE<br\/><br\/>The Refill Station NH<\/strong><br\/>124 Bartlett Street<br\/>Portsmouth, NH 03801<br\/>therefillstationnh@gmail.com<br\/>(603) 498-8963<br\/><br\/><strong>NEW JERSEY<\/strong><\/p><p><strong>The Refill Market<br\/><\/strong>10 Haddon Avenue<br\/>Haddon Township, NJ 08108<br\/>info@therefillmarketnj.com<br\/>(856) 285-7135<\/p><p><strong>Simple Bare Necessities<br\/><\/strong>17 Main St<br\/>Sparta Township, NJ 07871<br\/>(973) 362-6960<br\/><br\/><strong>NEW YORK<\/strong><\/p><p><strong>Earth & Me<\/strong><br\/>3038 Steinway Street<br\/>Queens, NY 11103<br\/>(347) 730-6156<br\/>hello@earthandme.co<\/p><p>2371 31st Street<br\/>Astoria, NY 11105<\/p><p>233 5th Avenue,<br\/>Brooklyn, NY 11215<\/p><p><strong>Little Salmon<\/strong><br\/>230 Lexington Ave<br\/>Buffalo, NY 14222<br\/>(716) 777-0634<br\/>info@littlesalmon.co<\/p><p><strong>Marilla’s Mindful Supplies <\/strong><br\/>438 Exchange St<br\/>Geneva, NY 14456<br\/>(315) 759-5016<br\/>hello@marillas.com<br\/><br\/><strong>North Carolina<\/strong><\/p><p><strong>Good Earth Essentials<\/strong><br\/>222 West Blvd<br\/>Charlotte, NC 28203<br\/>info@goodearthessentials.com<\/p><p><strong>OHIO<\/strong><\/p><p><strong>ReThink Collective<\/strong><br\/>15619 Waterloo Rd<br\/>Cleveland, OH 44110<br\/>(216) 808-1010<br\/>hello@rethink-collective.com<\/p><p><strong>OREGON<br\/><br\/>The Realm Refillery<br\/><\/strong>2310 NE Broadway<br\/>Portland, OR 97232<br\/>(503) 954-1407<br\/>admin@therealmrefillery.com<\/p><p><strong>PENNSYLVANIA<\/strong><\/p><p><strong>Ray's Reusables<br\/><\/strong>935 N 2nd Street<br\/>Philadelphia, PA 19123<br\/>info@raysreusables.com<strong><br\/><br\/>The Refillery X The Local Instead<br\/><\/strong>1931 Murray Avenue<br\/>Pittsburgh, PA 15217<br\/>therefilleryxthelocal@gmail.com<\/p><p><strong>Main Line Shift<\/strong><br\/>252 Haverford Ave<br\/>Narberth, PA 19072<br\/>info@mainlineshift.com<\/p><p><strong>Rhode Island<\/strong><\/p><p><strong>The Heal Room<br\/><\/strong>574 Smithfield Ave<br\/>Pawtucket, RI 02860<br\/>(401) 373-4325<br\/>thehealroomri@gmail.com<\/p><p><strong>TENNESSEE<\/strong><\/p><p><strong>Knoxfill<br\/><\/strong>3211 S Haven Rd<br\/>Knoxville, TN 37920<br\/>(865) 312-5014<br\/>knoxfillshop@gmail.com<\/p><p><strong><br\/>VIRGINIA<\/strong><br\/><br\/><strong>Fill Happy<br\/><\/strong>5251 John Tyler Hwy #52<br\/>Williamsburg, VA 23188<br\/>jana@fillhappy-va.com<\/p><p><strong>Fillagreen<br\/><\/strong>9029 Center St<br\/>Manassas, VA 20110<br\/>(703) 574-5933<br\/>owner@fillagreen.com<br\/><br\/><strong>Eco Inspired<\/strong><br\/>2624 Buford Road<br\/>Bon Air, VA 23235<br\/>(804) 326-4779<br\/>livingecoinspired.com<\/p><p><strong>Less Than<br\/><\/strong>1 N Lombardy St.<br\/>Richmond, VA 23220<br\/>(804) 918-9387<br\/>hello@golessthan.com<br\/><br\/><strong>Trace Zero Waste<br\/><\/strong>140 Church St NW<br\/>Vienna, VA 22180<br\/>(703) 223-5045<\/p><p><strong>Virginia Mercantile<br\/><\/strong>12644 Chapel Rd #F<br\/>Clifton, VA 20124<br\/>(571) 549-8880<br\/>vamercantile@gmail.com<\/p>",
+              "text_size": "featured_text",
+              "text_alignment": "align_left",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "89210389-a6bc-4c75-81d7-309131e44394": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 10,
+              "divider_border": false
+            }
+          }
+        },
+        "block_order": [
+          "page-details-3-template-2",
+          "page-details-3-template-3",
+          "217b14a6-d3ba-4e2b-b214-c391b15caef4",
+          "89210389-a6bc-4c75-81d7-309131e44394"
+        ],
+        "settings": {
+        }
+      },
+      "page-details-4-template": {
+        "type": "page-details-4-template",
+        "blocks": {
+          "8869774d-006a-4e47-9f5a-727a46ce94d3": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify:\/\/shop_images\/8E28C992-5BD1-4D69-AAE7-F35C9F7EE1B5_1_105_c.jpg",
+              "image_crop": "none",
+              "title": "It All Started With Chronic Illness",
+              "text": "<p>Hi, I'm Gabi Day and I'm a science nerd who lives with multiple chronic illnesses - Lyme Disease, Ehlers-Danlos Syndrome, and POTS.<\/p><p>Back in one of my more severe flares (peep my hospital chic), I was looking for a way to give my immune system as much of a break as possible.<br\/><br\/>I started researching every personal care product I was using at the time and it didn't take long for me to realize that I could do way better and there's a lot of bad science out there in clean beauty.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "page-details-4-template-1": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 0,
+              "divider_border": false
+            }
+          },
+          "f869fc6b-fe69-40d7-ad1f-4c8f2e2247e2": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row-reverse",
+              "image": "shopify:\/\/shop_images\/Bright-Body-Ingredients.jpg",
+              "image_crop": "none",
+              "title": "Science Nerd Forever",
+              "text": "<p>I figured it wouldn't be that hard to find a solid brand that used only the safest ingredients. I was very wrong.<\/p><p>As a true hard-headed and self-motivated Enneagram 8, I decided to create that line my damn self.<br\/><br\/>I started by teaching myself cosmetic chemistry while stuck in bed undergoing aggressive treatment.<\/p><p>As I slowly gained my strength back I started testing and learning product formulations in the kitchen.<\/p><p>My zone of genius is using botanical ingredients with the safest and best synthetics to make clean products that pack a punch.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "page-details-4-template-3": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 10,
+              "divider_border": false
+            }
+          },
+          "6c51eaf2-8181-4a9f-8339-8c2c2ac77c90": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify:\/\/shop_images\/Bright-Body-Boutique-Refill-Zero-Waste.jpg",
+              "image_crop": "none",
+              "title": "The Best Of Both Worlds",
+              "text": "<p>Since our 2017 launch, I've doubled down on a sustainable business model with our aluminum, glass, and kraft cardboard packaging PLUS a <a href=\"\/pages\/eco-friendly-refill-program\" title=\"Eco-Friendly Refill Program\">Refill Program<\/a> in 2018.<br\/><br\/>I've also beefed up not only my cosmetic chemistry chops but also my study of yoga and Ayurveda (fun fact: I'm also an RYT-500 and Ayurvedic Health Coach).<br\/><br\/>Science is awesome. So is Ayurveda. It's possible to use BOTH.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "149d33e8-e9d0-4a07-b191-ec747cbeb354": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "366a5f83-a04b-471f-9055-404fb758922e": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row-reverse",
+              "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Twin-Mom.jpg",
+              "image_crop": "none",
+              "title": "Then I Became A Twin Mom",
+              "text": "<p>After 3 years of unexplained infertility, 3 pregnancy losses, 6 IUIs, and 2 rounds of IVF, I got pregnant in August 2021.<br\/><br\/>Our single embryo transfer split into two, and in April 2022 my husband and I became parents to identical twin boys, Oscar & Nico.<br\/><br\/>While it's getting easier to find nontoxic-ish products for kids, many aren't as strict with their ingredients as I'd like, and almost all of them come in plastic packaging.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "5267025a-f9fc-44f0-9d39-407838406347": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Gabi-Twins.jpg",
+              "image_crop": "none",
+              "title": "So I Expanded The Line",
+              "text": "<p>So it was a logical next step for <a href=\"https:\/\/mybrightbody.com\" title=\"https:\/\/mybrightbody.com\">Bright Body<\/a> to start making products for babies and kiddos, and decided to give it a bigger purpose...<br\/><br\/>When SCOTUS overturned Roe v. Wade in June 2022, I knew I had to do something to fight back.<br\/><br\/>As a mom by choice, for choice (who happened to have a life-saving abortion), I decided to harness the power of my small businesses. We are proud to donate 1% of our sales to pro-choice causes.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "5a695b01-25fb-4cb2-b29b-909a09a347d2": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "",
+              "content": "",
+              "text_size": "featured_text",
+              "text_alignment": "center",
+              "button_label": "Shop Bright Body",
+              "button_link": "shopify:\/\/collections\/bestsellers"
+            }
+          },
+          "8a55d477-e6f0-4714-965e-39382adeb861": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "",
+              "content": "",
+              "text_size": "featured_text",
+              "text_alignment": "center",
+              "button_label": "Shop Bright Body Baby",
+              "button_link": "shopify:\/\/collections\/baby"
+            }
+          },
+          "5ed021da-e2b3-4d5d-9f6c-a5c0f873f72f": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 10,
+              "divider_border": false
+            }
+          },
+          "d6791cce-75d4-4f14-9e90-de55e1d20edb": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "shopify:\/\/shop_images\/what-sets-us-apart_36d92105-828a-4c96-a043-df32fbf84faf.jpg",
+              "pretext": "",
+              "title": "",
+              "subtitle": "",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "left",
+              "text_align": "left",
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "c00f4584-f3fd-4f93-9852-d59edc2600c9": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "shopify:\/\/shop_images\/Meet-the-team.jpg",
+              "pretext": "",
+              "title": "",
+              "subtitle": "",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "left",
+              "text_align": "left",
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "c95f4a74-4681-4141-8933-3a5681f23246": {
+            "type": "image_with_text",
+            "settings": {
+              "wide_display": false,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "row",
+              "image": "shopify:\/\/shop_images\/Bright_Body_Website-Amanda_Arnold_Photography-08510.jpg",
+              "image_crop": "none",
+              "title": "Satisfaction guaranteed",
+              "text": "<p>Try our minis and love them or get your money back.<\/p>",
+              "link": "shopify:\/\/collections\/minis",
+              "button_label": "Shop Minis"
+            }
+          },
+          "03d785d8-cff8-42bd-a121-14de84a6580f": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "edca1464-eea5-438c-8a1c-daf8d238b40c": {
+            "type": "custom_html",
+            "settings": {
+              "custom_html": "<div id=\"stamped-reviews-widget\" data-widget-type=\"carousel\" data-title=\"Reviews\" data-auto-play=\"false\" data-style-color-title=\"#000000\" data-style-color-star=\"#e8d98b\" data-style-color-text=\"#000000\" data-style-color-link=\"#61559a\" data-random=\"? string:Reviews ?\" data-with-photos=\"? string:#e8d98b ?\"><\/div>"
+            }
+          },
+          "dab0304e-5cd3-4556-be87-947b283885bf": {
+            "type": "blog_posts",
+            "settings": {
+              "title": "Blogs",
+              "blog_widget_select": "blog-highlights-2",
+              "home_page_articles": 3,
+              "blog_tags": false,
+              "blog_author": false,
+              "read_time": true,
+              "blog_date": false,
+              "blog_comment_count": false,
+              "read_more_link": true,
+              "excerpt_display": "none"
+            }
+          },
+          "bc1855fd-66e3-4bd5-9252-d05247162f9a": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "title": "",
+              "content": "<p>Follow us on <a href=\"https:\/\/instagram.com\/mybrightbody\" target=\"_blank\" title=\"https:\/\/instagram.com\/mybrightbody\">Instagram<\/a><\/p>",
+              "text_size": "featured_text",
+              "text_alignment": "center",
+              "button_label": "",
+              "button_link": "https:\/\/instagram.com\/mybrightbody"
+            }
+          },
+          "2d493c20-283c-4fda-8369-7d5348558a58": {
+            "type": "image_gallery",
+            "settings": {
+              "wide_display": true,
+              "detail_image_1": "shopify:\/\/shop_images\/Coming_Soon.jpg",
+              "detail_image_2": "shopify:\/\/shop_images\/This_Isn_t_For_You_If.jpg",
+              "detail_image_3": "shopify:\/\/shop_images\/New_Here.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "8869774d-006a-4e47-9f5a-727a46ce94d3",
+          "page-details-4-template-1",
+          "f869fc6b-fe69-40d7-ad1f-4c8f2e2247e2",
+          "page-details-4-template-3",
+          "6c51eaf2-8181-4a9f-8339-8c2c2ac77c90",
+          "149d33e8-e9d0-4a07-b191-ec747cbeb354",
+          "366a5f83-a04b-471f-9055-404fb758922e",
+          "5267025a-f9fc-44f0-9d39-407838406347",
+          "5a695b01-25fb-4cb2-b29b-909a09a347d2",
+          "8a55d477-e6f0-4714-965e-39382adeb861",
+          "5ed021da-e2b3-4d5d-9f6c-a5c0f873f72f",
+          "d6791cce-75d4-4f14-9e90-de55e1d20edb",
+          "c00f4584-f3fd-4f93-9852-d59edc2600c9",
+          "c95f4a74-4681-4141-8933-3a5681f23246",
+          "03d785d8-cff8-42bd-a121-14de84a6580f",
+          "edca1464-eea5-438c-8a1c-daf8d238b40c",
+          "dab0304e-5cd3-4556-be87-947b283885bf",
+          "bc1855fd-66e3-4bd5-9252-d05247162f9a",
+          "2d493c20-283c-4fda-8369-7d5348558a58"
+        ],
+        "settings": {
+        }
+      },
+      "1619876974badea5e6": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 15,
+          "divider_border": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1489283389016",
+      "1619876974badea5e6",
+      "160763501680e76007",
+      "160763871784141f90",
+      "16076370430025dbcf",
+      "1607638457ffa1a23e",
+      "1573135030425",
+      "1580913831658",
+      "160763994853bbb504",
+      "160763973450b2a405",
+      "1607649809e3713b09"
+    ],
+    "blocks": {
+      "8133853093390032344": {
+        "type": "shopify:\/\/apps\/visual-quiz-builder\/blocks\/app-embed\/82108934-e042-4d36-9032-f4f6674fae34",
+        "disabled": false,
+        "settings": {
+          "render": "shadow"
+        }
+      },
+      "15079184273603081885": {
+        "type": "shopify:\/\/apps\/essential-shippingbar\/blocks\/app_embed\/4125375e-37c8-4137-949d-c4e1a3aac572",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "15885745614559378752": {
+        "type": "shopify:\/\/apps\/accessibly\/blocks\/app-embed\/4b59303e-1141-4c8a-945f-bf4adb516864",
+        "disabled": false,
+        "settings": {
+          "themeColor": "#000000",
+          "iconColor": "#000000",
+          "showLogo": true,
+          "topBottomPosition": 10,
+          "rightLeftPosition": 10,
+          "iconSize": "small",
+          "iconCustomSize": 64,
+          "position": "middle-left"
+        }
+      }
+    }
+  }
+}

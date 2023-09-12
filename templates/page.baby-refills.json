@@ -1,0 +1,190 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "99507934-290e-487d-b5c8-da77875fcdd0": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Zero-Waste-Baby-Products-Organic-Refills-2.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9cfc4bc3-b04c-44f2-a93e-0e34d6d54036": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p>We believe that caring for our little ones means caring for the planet that they inherit from us.<br\/><br\/>That's why our products are packaged in aluminum and glass, and  refills come in aluminum pouches that you send back to us for recycling. It's a fully circular model without plastic waste.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "align_left",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "316e4bd8-3d80-4b3c-b27f-5e5382e7850d": {
+      "type": "gallery",
+      "blocks": {
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Zero-Waste-Baby-Products-Refills.jpg"
+          }
+        },
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Everywhere-Lotion-Fragrance-Free-Refills.jpg"
+          }
+        },
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Conditioner-Silicone-Free-Texture_7141123a-2cde-47b3-ace2-46eea16c2e69.jpg"
+          }
+        },
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Head-To-Toe-Wash-Texture-Organic-Baby-Shampoo.jpg"
+          }
+        },
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Organic-Product-Refills.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-0",
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-1",
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-2",
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-3",
+        "template--19775587287320__316e4bd8-3d80-4b3c-b27f-5e5382e7850d-168875643663969083-4"
+      ],
+      "settings": {
+        "wide_display": false,
+        "title": "",
+        "gallery_type": "classic",
+        "grid-size": 5,
+        "enable_lightbox": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1fc448a6-d2c1-4f25-9d22-1270cf95152a": {
+      "type": "image-text",
+      "blocks": {
+        "template--19775587287320__1fc448a6-d2c1-4f25-9d22-1270cf95152a-168875784703da35cf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2c37b7a7-e514-4c21-a65c-d5ffe995d3af.jpg",
+            "image_crop": "none",
+            "title": "STEP 1",
+            "text": "<p>For your first purchase, order your goodies in full packaging (glass jar or aluminum bottle).<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "template--19775587287320__1fc448a6-d2c1-4f25-9d22-1270cf95152a-168875784703da35cf-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_d7bf1f0b-21ed-4fa8-9f90-2628d13cb205.jpg",
+            "image_crop": "none",
+            "title": "STEP 2",
+            "text": "<p>When you're ready to buy again, order an aluminum refill pouch. It saves you a couple bucks and allows you to reuse your original packaging.<br\/><br\/>You can order refill pouches from the same product page as original packaging - no separate listings involved.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "49e95b2d-c29f-40b8-8cca-f5ae1bbc9e39": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_def8b67c-c151-463a-ad95-7f7ad63b70cf.jpg",
+            "image_crop": "none",
+            "title": "STEP 3",
+            "text": "<p>When your pouch arrives, empty its contents into your (cleaned & dried) original packaging.<br\/><br\/>Hang onto your empty pouches.<\/p>",
+            "button_label": "View all",
+            "link": "",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "81b4474a-e8a8-405e-a5fb-4bcd9e63157c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_0635c31f-1458-4989-953f-9789ac149a75.jpg",
+            "image_crop": "none",
+            "title": "STEP 4",
+            "text": "<p>When you have 3 (or more) empty pouches on hand, let us know via checkout note on your next order.<br\/><br\/>We will include a Kraft mailer and prepaid shipping label in your package.<br\/><br\/>Place your empty pouches inside the mailer and pop it in your mailbox!<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "",
+            "text_color": ""
+          }
+        },
+        "94f854c0-caea-454d-8e1b-ab790bfdd373": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_b8482194-b267-4b8a-9f5a-f464f4b6bfab.jpg",
+            "image_crop": "none",
+            "title": "STEP 5",
+            "text": "<p>We receive your empty pouches and toss them in our Terracycle box only for this specific type of packaging.<\/p>",
+            "button_label": "",
+            "link": "",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19775587287320__1fc448a6-d2c1-4f25-9d22-1270cf95152a-168875784703da35cf-0",
+        "template--19775587287320__1fc448a6-d2c1-4f25-9d22-1270cf95152a-168875784703da35cf-1",
+        "49e95b2d-c29f-40b8-8cca-f5ae1bbc9e39",
+        "81b4474a-e8a8-405e-a5fb-4bcd9e63157c",
+        "94f854c0-caea-454d-8e1b-ab790bfdd373"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "99507934-290e-487d-b5c8-da77875fcdd0",
+    "9cfc4bc3-b04c-44f2-a93e-0e34d6d54036",
+    "316e4bd8-3d80-4b3c-b27f-5e5382e7850d",
+    "1fc448a6-d2c1-4f25-9d22-1270cf95152a"
+  ]
+}

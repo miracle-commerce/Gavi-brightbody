@@ -1,0 +1,80 @@
+{
+  "sections": {
+    "main": {
+      "type": "collection-template",
+      "blocks": {
+        "f26073be-32e6-4409-b1db-89f35b349c17": {
+          "type": "text",
+          "settings": {
+            "title": "HELP ME CHOOSE",
+            "text": "<p>Take our <a href=\"https:\/\/mybrightbody.com\/#finder-quiz-3724\" title=\"https:\/\/mybrightbody.com\/#finder-quiz-3724\">skin<\/a> and <a href=\"https:\/\/mybrightbody.com\/#finder-quiz-3741\" title=\"https:\/\/mybrightbody.com\/#finder-quiz-3741\">hair<\/a> quizzes to help you choose the right products.<\/p>"
+          }
+        },
+        "d59ee060-802a-4dd5-893b-322f603024bd": {
+          "type": "filter",
+          "settings": {
+            "filter_name": "TEXTURE",
+            "filter_tags": "straight hair, wavy hair, curly hair, coily hair",
+            "enable_filter_swatches": false
+          }
+        },
+        "45e6acb7-7d4c-44d8-b0ee-9c54838070dc": {
+          "type": "filter",
+          "settings": {
+            "filter_name": "MOISTURE LEVEL",
+            "filter_tags": "dry hair, oily hair, dry skin, oily skin, combination skin",
+            "enable_filter_swatches": false
+          }
+        },
+        "360e56d6-7ebe-4f32-8a8e-4a8c1d70ed3e": {
+          "type": "filter",
+          "settings": {
+            "filter_name": "INFLAMMATION CONCERNS",
+            "filter_tags": "acne, rosacea + redness, scars",
+            "enable_filter_swatches": false
+          }
+        },
+        "c3c77f7a-1c01-4809-bdeb-052e43564d9a": {
+          "type": "filter",
+          "settings": {
+            "filter_name": "AGING CONCERNS",
+            "filter_tags": "fine lines, dull skin, dark spots",
+            "enable_filter_swatches": false
+          }
+        },
+        "3a52bbe1-7af5-41d8-bbf8-dfde7dcadf94": {
+          "type": "filter",
+          "settings": {
+            "filter_name": "SPECIAL CONCERNS",
+            "filter_tags": "sensitive skin, color safe, damaged hair",
+            "enable_filter_swatches": false
+          }
+        }
+      },
+      "block_order": [
+        "f26073be-32e6-4409-b1db-89f35b349c17",
+        "d59ee060-802a-4dd5-893b-322f603024bd",
+        "45e6acb7-7d4c-44d8-b0ee-9c54838070dc",
+        "360e56d6-7ebe-4f32-8a8e-4a8c1d70ed3e",
+        "c3c77f7a-1c01-4809-bdeb-052e43564d9a",
+        "3a52bbe1-7af5-41d8-bbf8-dfde7dcadf94"
+      ],
+      "settings": {
+        "featured_collection_image": false,
+        "wide_display": true,
+        "mobile_image_crop": "none",
+        "caption_content_background": "original",
+        "display_collection_title": false,
+        "collection_breadcrumb": true,
+        "collection_tags": false,
+        "collection_sort": false,
+        "products_per_row": 3,
+        "pagination_limit": 48,
+        "toggle": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

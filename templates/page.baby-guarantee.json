@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "3b59c523-8cae-4363-a403-f1ac4bd59d6f": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/Bright-Body-Baby-Happiness-Guaranteed.jpg",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "button1": "",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "358555b9-d294-4f8d-92d1-2ad5c7d9b6f4": {
+      "type": "featured-text",
+      "settings": {
+        "title": "",
+        "content": "<p>We're so confident that you're going to love your Bright Body Baby goodies that we offer a <strong>Guarantee on our mini sized products<\/strong>. Try out any of our products in a mini size and if you don't love it within 30 days of delivery, reach out to us at <strong>info@brightbodybaby.com<\/strong>and we'll issue a refund.<br\/><br\/>We also appreciate any feedback you have as to what made your experience less than ideal. We value your input and are all about constant improvement.<br\/><br\/>If you're not happy with a full size product within 30 days of delivery, we offer store credit and exchanges.<br\/><br\/><\/p><p><span style=\"text-decoration:underline\">Terms and Conditions<\/span><\/p><ul><li>Products must be purchased directly from brightbodybaby.com, we do not accept returns from our retail partners.<\/li><li>Original shipping charges are non-refundable. Any shipping charges incurred in an exchange are the responsibility of the customer.<\/li><li>Custom products and items marked final sale are non-returnable and non-refundable.<\/li><\/ul>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "align_left",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3b59c523-8cae-4363-a403-f1ac4bd59d6f",
+    "358555b9-d294-4f8d-92d1-2ad5c7d9b6f4"
+  ]
+}
