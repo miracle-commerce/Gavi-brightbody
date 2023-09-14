@@ -573,7 +573,6 @@ window.selectCallback = function (variant, selector) {
   const $notifyForm = $(`.notify-form-${selector.product.id}`);
   const $productForm = $('.product_form, .shopify-product-form', $product);
   const variantInventory = $productForm.data('variant-inventory');
-
   const $notifyFormInputs = $('.notify_form__inputs', $product);
   const notifyEmail = window.Shopify.translation.notify_email;
   const notifyEmailValue = '{{ contact.fields.email }}';
@@ -660,6 +659,7 @@ window.selectCallback = function (variant, selector) {
   }
 
   if (variant && variant.available === true) {
+    $('.add_to_cart', $product).data('label', window.Shopify.translation.add_to_cart);
     if (variant.inventory_management && variant.inventory_quantity > 0) {
       if (window.Shopify.theme_settings.display_inventory_left) {
         if (variant.inventory_quantity === 1) {
@@ -680,13 +680,18 @@ window.selectCallback = function (variant, selector) {
           $('.quantity', $product).attr('max', variant.inventory_quantity);
         }
       }
-    } else {
+    } 
+    else if (variant.inventory_management && variant.inventory_quantity == 0 && variant.inventory_policy == "continue"){
+      console.log('pre-order');
+      $('.add_to_cart', $product).data('label', window.Shopify.translation.pre_order_text);
+    }
+    else {
       $('.items_left', $product).text('');
       $('.quantity', $product).removeAttr('max');
     }
 
     $('.sold_out', $product).text('');
-    $('.add_to_cart', $product).removeClass('disabled').removeAttr('disabled').find('span')
+    $('.add_to_cart', $product).removeClass('disabled').removeAttr('disabled').find("[data-button-text]")
       .text($('.add_to_cart', $product).data('label'));
     $('.shopify-payment-button', $product).removeClass('disabled');
     $('.purchase-details__buttons', $product).removeClass('product-is-unavailable');
@@ -708,7 +713,7 @@ window.selectCallback = function (variant, selector) {
     $('.quantity', $product).removeAttr('max');
     $('.sold_out', $product).text(message);
     $('.purchase-details__buttons', $product).addClass('product-is-unavailable');
-    $('.add_to_cart', $product).addClass('disabled').attr('disabled', 'disabled').find('span')
+    $('.add_to_cart', $product).addClass('disabled').attr('disabled', 'disabled').find("[data-button-text]")
       .text(message);
     $('.shopify-payment-button', $product).addClass('disabled');
     $notifyForm.hide();
